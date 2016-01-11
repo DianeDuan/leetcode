@@ -1,5 +1,3 @@
-import algorithms.TwoSum_1;
-
 import java.lang.String;
 
 public class TestMain {
