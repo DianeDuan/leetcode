@@ -1,3 +1,5 @@
+import algorithm.easy.NimName_292;
+
 import java.lang.String;
 
 public class TestMain {

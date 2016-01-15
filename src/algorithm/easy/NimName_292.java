@@ -1,4 +1,4 @@
-package algorithms.easy;
+package algorithm.easy;
 
 /**
  * Problem:
