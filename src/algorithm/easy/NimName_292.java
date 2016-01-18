@@ -3,7 +3,7 @@ package algorithm.easy;
 /**
  * Problem:
  * https://leetcode.com/problems/nim-game/
- *
+ * <p/>
  * Analysis:
  * If you want to win a nim game of removing 1 to k stones,
  * the key point is you can make sure at least you have one chance that after you finish your removing,
@@ -18,7 +18,7 @@ package algorithm.easy;
 public class NimName_292 {
     public boolean canWinNim(int n) {
         int k = 3;
-        for (int i = 1;i <= k; i++) {
+        for (int i = 1; i <= k; i++) {
             if (((n - i) % (k + 1)) == 0) {
                 return true;
             }

@@ -3,23 +3,23 @@ package algorithm.medium;
 /**
  * Problem:
  * https://leetcode.com/problems/product-of-array-except-self/
- *
+ * <p/>
  * Analysis:
- *
+ * <p/>
  * If there is no limit that you cannot use division, you can get a product of all the numbers in the array,
  * and then divide that product by num[i], you will get output[i].
- *
+ * <p/>
  * Without division, you you can use the product of two products as output[i]
  * (one of the product is the product of all the numbers whose index is lower than i,
  * the other product is the product of all the numbers whose index is higher than i),
  * and there are two solutions based on this thought.
- *
+ * <p/>
  * Solution1:
  * Use two arrays, leftProduct array and rightProduct array to store the products.
  * leftProduct[i] = nums[0] * nums[1] * ... * nums[i-1]
  * rightProduct[i] = nums[nums.length] * nums[nums.length - 1] * ... * nums[i+1]
  * Then by multiplying leftProduct[i] and rightProduct[i], we can get output[i].
- *
+ * <p/>
  * Solution2:
  * Solution1's space complexity is O(n), but if we can use output array for leftProduct,
  * and don't use rightProduct array to store products of numbers with higher indexes than each number in nums array,
@@ -39,13 +39,13 @@ public class ProductOfArrayExceptSelf_238 {
         int[] leftProduct = new int[nums.length];
         leftProduct[0] = 1;
         for (int i = 1; i < nums.length; i++) {
-            leftProduct[i] = leftProduct[i-1] * nums[i-1];
+            leftProduct[i] = leftProduct[i - 1] * nums[i - 1];
         }
 
         int[] rightProduct = new int[nums.length];
         rightProduct[nums.length - 1] = 1;
-        for (int i = (nums.length-2); i > -1; i--) {
-            rightProduct[i] = rightProduct[i+1] * nums[i+1];
+        for (int i = (nums.length - 2); i > -1; i--) {
+            rightProduct[i] = rightProduct[i + 1] * nums[i + 1];
         }
 
         int[] output = new int[nums.length];
@@ -64,7 +64,7 @@ public class ProductOfArrayExceptSelf_238 {
         int[] output = new int[nums.length];
         output[0] = 1;
         for (int i = 1; i < nums.length; i++) {
-            output[i] = output[i-1] * nums[i-1];
+            output[i] = output[i - 1] * nums[i - 1];
         }
         int tmpProduct = 1;
         for (int i = (nums.length - 1); i > -1; i--) {

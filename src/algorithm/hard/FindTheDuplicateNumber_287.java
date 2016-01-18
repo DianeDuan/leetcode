@@ -3,12 +3,12 @@ package algorithm.hard;
 /**
  * Problem:
  * https://leetcode.com/problems/find-the-duplicate-number/
- *
+ * <p/>
  * Analysis:
- *
+ * <p/>
  * First part: prove that at least one duplicate number must exist
  * Use the pigeonhole principle.
- *
+ * <p/>
  * Second part: assume that there is only one duplicate number, find the duplicate one(which could be repeated more than once)
  * Solution1: Pigeonhole principle and binary search
  * According the Pigeonhole Principle,
@@ -19,13 +19,13 @@ package algorithm.hard;
  * and if the count of all the numbers greater than k in nums array is less than k,
  * it means the range of the duplicate number is between k and n.
  * Use binary search to find the duplicate number can achieve time complexity O(nlogn).
- *
+ * <p/>
  * Solution2: Find the start of a cycle
  * If there is duplicate number in nums array, there will be a cycle in this array:
  * y[0] = 0, y[1] = nums[y[0]], y[2] = nums[y[i]], y[t] = nums[y[t-1]].
  * This turn this problem into a finding the start of a cycle problem.
  * Use Floyd's cycle-finding algorithm to find the start of a cycle.
- *
+ * <p/>
  * Reference:
  * Solutions of the problem:
  * https://segmentfault.com/a/1190000003817671#articleHeader15
@@ -43,7 +43,7 @@ public class FindTheDuplicateNumber_287 {
         }
 
         int min = 1;
-        int max = nums.length -1;
+        int max = nums.length - 1;
         while (min <= max) {
             int middle = (max + min) / 2;
             int leMiddleCount = 0;
