@@ -3,12 +3,12 @@ package algorithm.easy;
 /**
  * Problem:
  * https://leetcode.com/problems/add-digits/
- *
+ * <p/>
  * Analysis:
- *
+ * <p/>
  * Solution1:
  * Add these digits step by step until there's only one digit left.
- *
+ * <p/>
  * Solution2:
  * The result is one digit, so it can be only range from 0 to 9.
  * Observe the result of these num values:
@@ -49,14 +49,14 @@ package algorithm.easy;
  */
 public class AddDigits_258 {
     public int addDigits_solution1(int num) {
-        if ((num/10) == 0) {
+        if ((num / 10) == 0) {
             return num;
         } else {
             int digitsSum = 0;
-            while ((num/10) != 0) {
+            while ((num / 10) != 0) {
                 int digit = (num % 10);
                 digitsSum += digit;
-                num = ((num-digit) / 10);
+                num = ((num - digit) / 10);
             }
             digitsSum += num;
             return addDigits_solution1(digitsSum);
@@ -64,6 +64,6 @@ public class AddDigits_258 {
     }
 
     public int addDigits_solution2(int num) {
-        return ((num-1) % 9) + 1;
+        return ((num - 1) % 9) + 1;
     }
 }
