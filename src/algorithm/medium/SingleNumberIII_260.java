@@ -9,6 +9,20 @@ import java.util.Set;
  * https://leetcode.com/problems/single-number-iii/
  * <p/>
  * Analysis:
+ *
+ * Solution1:
+ * Use a map to record the occurrence times of every number.
+ * Then traverse the whole map to find the numbers that occur only once.
+ *
+ * Solution2:
+ * The result of xor all the numbers equals to the result of xor the two numbers that occur only once.
+ * As the two numbers is different, at least one of the result's bits is not zero.
+ * Find one of the nonzero bit position,
+ * and divide the nums array into two parts by if the element's bit on that position is 0 or 1.
+ * The two single numbers will also be divided into those two part, respectively.
+ * After the partition, this problem change to finding a single number from each of the two parts,
+ * and it's equal to the "No.136: Single Number" problem.
+ * In the "No.136: Single Number" problem, xor all the numbers will get the single number.
  */
 public class SingleNumberIII_260 {
     //time complexity: O(n), space complexity: O(n)
