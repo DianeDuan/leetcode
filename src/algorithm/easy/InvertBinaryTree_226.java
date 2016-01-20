@@ -5,12 +5,12 @@ import java.util.Stack;
 /**
  * Problem:
  * https://leetcode.com/problems/invert-binary-tree/
- *
+ * <p/>
  * Analysis:
- *
+ * <p/>
  * Solution1:
  * Recursively swap left node and right node from root to the bottom of the tree.
- *
+ * <p/>
  * Solution2:
  * Use a stack instead of of recursion.
  */

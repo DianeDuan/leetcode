@@ -4,7 +4,7 @@ package algorithm.easy;
 /**
  * Problem:
  * https://leetcode.com/problems/delete-node-in-a-linked-list/
- *
+ * <p/>
  * Analysis:
  * The node is in a singly linked list, and only the node which need to be deleted is given,
  * that means there's no way to reach the previous node of the node to be deleted.

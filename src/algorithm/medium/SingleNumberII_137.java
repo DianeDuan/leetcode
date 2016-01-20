@@ -7,13 +7,13 @@ import java.util.Set;
 /**
  * Problem:
  * https://leetcode.com/problems/single-number-ii/
- *
+ * <p/>
  * Analysis:
- *
+ * <p/>
  * Solution1:
  * Use a map to record the occurrence times of every number.
  * Then traverse the whole map to find which number doesn't occur three times.
- *
+ * <p/>
  * Solution2:
  * If all of the other numbers in the array occur k times,
  * and only one number occurs once,
@@ -63,14 +63,14 @@ public class SingleNumberII_137 {
 
         int intBitCount = 32;
         int[] bitSums = new int[intBitCount];
-        for (int num: nums) {
+        for (int num : nums) {
             for (int i = 0; i < intBitCount; i++) {
                 bitSums[i] += ((num >> i) & 1);
             }
         }
 
         int result = 0;
-        for (int i= 0;i < intBitCount;i++) {
+        for (int i = 0; i < intBitCount; i++) {
             int tmp = (bitSums[i] % 3) << i;
             result += tmp;
         }
