@@ -12,7 +12,7 @@ import java.util.Set;
  * Before add the number into the set,
  * check if current number is already in the set,
  * if so, that means the array contains duplicates,
- * if not, add the number into the set to record its occurrence.
+ * if not, add the number into the set to record its occurrence and continue.
  */
 public class ContainsDuplicate_217 {
     public boolean containsDuplicate(int[] nums) {
