@@ -29,7 +29,7 @@ public class MajorityElementII_229 {
         //get counts of the top 2 numbers
         int counters[] = getCounters(nums, candidates);
         //get the numbers that match the majority element's definition
-        return getMajorityElements(candidates, counters, Math.floorDiv(nums.length, 3));
+        return getMajorityElements(candidates, counters, nums.length / 3);
     }
 
     private int[] getCandidates(int[] nums, int candidateCounts) {

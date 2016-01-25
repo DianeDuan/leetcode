@@ -22,7 +22,7 @@ import java.util.Map;
 public class MajorityElement_169 {
     //time complexity: O(n), space complexity: O(n)
     public int majorityElement_solution1(int[] nums) {
-        int threshold = Math.floorDiv(nums.length, 2);
+        int threshold = nums.length / 2;
         Map<Integer, Integer> numCount = new HashMap<Integer, Integer>();
         for (int num : nums) {
             if (numCount.containsKey(num)) {
