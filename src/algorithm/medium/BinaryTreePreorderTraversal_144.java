@@ -11,10 +11,10 @@ import java.util.Stack;
  * Analysis:
  * <p/>
  * Solution1:
- * Recursion solution.
+ * Recursive solution.
  * <p/>
  * Solution2:
- * Non-recursion solution, use a stack to keep a record of nodes in the tree.
+ * Non-recursive solution, use a stack to keep a record of nodes in the tree.
  */
 public class BinaryTreePreorderTraversal_144 {
     public List<Integer> preorderTraversal_solution1(TreeNode root) {
