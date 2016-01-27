@@ -14,6 +14,9 @@ package algorithm.medium;
  */
 public class BulbSwitcher_319 {
     public int bulbSwitch(int n) {
+        if (n <= 0) {
+            return 0;
+        }
         return (int) Math.sqrt(n);
     }
 }
