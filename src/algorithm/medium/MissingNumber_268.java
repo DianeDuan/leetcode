@@ -3,7 +3,7 @@ package algorithm.medium;
 /**
  * Problem:
  * https://leetcode.com/problems/missing-number/
- *
+ * <p/>
  * Analysis:
  * The difference between the sum of 1, 2, ..., n and the sum of elements in nums array is that missing number.
  */
@@ -20,8 +20,8 @@ public class MissingNumber_268 {
 
         int n = nums.length;
         int totalSum = 0;
-        for (int i = 1; i<= n; i++) {
-            totalSum+=i;
+        for (int i = 1; i <= n; i++) {
+            totalSum += i;
         }
 
         return (totalSum - sum);
