@@ -1,5 +1,7 @@
 package algorithm.easy;
 
+import algorithm.vo.ListNode;
+
 /**
  * Problem:
  * https://leetcode.com/problems/odd-even-linked-list/

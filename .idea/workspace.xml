@@ -2,8 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6fd48995-ee36-4612-8f4a-564b39bcf140" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/algorithm/easy/ListNode.java" afterPath="$PROJECT_DIR$/src/algorithm/easy/ListNode.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TODO.md" afterPath="$PROJECT_DIR$/src/TODO.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithm/vo/TreeNode.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/algorithm/easy/TreeNode.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/algorithm/medium/TreeNode.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/ListNode.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/TreeNode.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/algorithm/medium/TreeNode.class" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/algorithm/easy/ListNode.java" afterPath="$PROJECT_DIR$/src/algorithm/vo/ListNode.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/medium/BinaryTreeInorderTraversal_94.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/medium/BinaryTreeInorderTraversal_94.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/medium/BinaryTreePreorderTraversal_144.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/medium/BinaryTreePreorderTraversal_144.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/DeleteNodeInALinkedList_237.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/DeleteNodeInALinkedList_237.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/InvertBinaryTree_226.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/InvertBinaryTree_226.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/LowestCommonAncestorOfABinarySearchTree_235.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/LowestCommonAncestorOfABinarySearchTree_235.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/MaximumDepthOfBinaryTree_104.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/MaximumDepthOfBinaryTree_104.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/OddEvenLinkedList_328.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/OddEvenLinkedList_328.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/SameTree_100.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/SameTree_100.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/TestMain.class" afterPath="$PROJECT_DIR$/target/classes/TestMain.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/algorithm/medium/BinaryTreeInorderTraversal_94.java" afterPath="$PROJECT_DIR$/src/algorithm/medium/BinaryTreeInorderTraversal_94.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/algorithm/medium/BinaryTreePreorderTraversal_144.java" afterPath="$PROJECT_DIR$/src/algorithm/medium/BinaryTreePreorderTraversal_144.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/algorithm/easy/DeleteNodeInALinkedList_237.java" afterPath="$PROJECT_DIR$/src/algorithm/easy/DeleteNodeInALinkedList_237.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/algorithm/easy/InvertBinaryTree_226.java" afterPath="$PROJECT_DIR$/src/algorithm/easy/InvertBinaryTree_226.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/algorithm/easy/LowestCommonAncestorOfABinarySearchTree_235.java" afterPath="$PROJECT_DIR$/src/algorithm/easy/LowestCommonAncestorOfABinarySearchTree_235.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/algorithm/easy/MaximumDepthOfBinaryTree_104.java" afterPath="$PROJECT_DIR$/src/algorithm/easy/MaximumDepthOfBinaryTree_104.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/algorithm/easy/OddEvenLinkedList_328.java" afterPath="$PROJECT_DIR$/src/algorithm/easy/OddEvenLinkedList_328.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/algorithm/easy/SameTree_100.java" afterPath="$PROJECT_DIR$/src/algorithm/easy/SameTree_100.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="leetcode.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,31 +51,34 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+      <file leaf-file-name="NumberOf1Bits_191.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/algorithm/easy/NumberOf1Bits_191.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.23910615">
+              <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+              <folding>
+                <element signature="e#430#431#0" expanded="true" />
+                <element signature="e#472#473#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Integer.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/JDK/jdk1.7.0_40/src.zip!/java/lang/Integer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="51" column="19" selection-start-line="51" selection-start-column="19" selection-end-line="51" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="TestMain.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/TestMain.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="1" column="44" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="44" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ListNode.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/algorithm/easy/ListNode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="OddEvenLinkedList_328.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/algorithm/easy/OddEvenLinkedList_328.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.43798882">
-              <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+              <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -92,8 +118,6 @@
         <option value="$PROJECT_DIR$/src/algorithm/easy/NimName_292.java" />
         <option value="$PROJECT_DIR$/src/algorithm/medium/SingleNumber_136.java" />
         <option value="$PROJECT_DIR$/src/algorithm/easy/AddDigits_258.java" />
-        <option value="$PROJECT_DIR$/src/algorithm/vo/TreeNode.java" />
-        <option value="$PROJECT_DIR$/src/algorithm/easy/TreeNode.java" />
         <option value="$PROJECT_DIR$/src/algorithm/easy/MaximumDepthOfBinaryTree_104.java" />
         <option value="$PROJECT_DIR$/src/algorithm/easy/DeleteNodeInALinkedList_237.java" />
         <option value="$PROJECT_DIR$/src/algorithm/easy/InvertBinaryTree_226.java" />
@@ -112,10 +136,7 @@
         <option value="$PROJECT_DIR$/src/algorithm/medium/BulbSwitcher_319.java" />
         <option value="$PROJECT_DIR$/src/algorithm/medium/MaximumProductOfWordLengths_318.java" />
         <option value="$PROJECT_DIR$/src/algorithm/medium/MissingNumber_268.java" />
-        <option value="$PROJECT_DIR$/src/algorithm/vo/ListNode.java" />
         <option value="$PROJECT_DIR$/src/algorithm/medium/TreeNode.java" />
-        <option value="$PROJECT_DIR$/src/algorithm/medium/BinaryTreePreorderTraversal_144.java" />
-        <option value="$PROJECT_DIR$/src/algorithm/medium/BinaryTreeInorderTraversal_94.java" />
         <option value="$PROJECT_DIR$/src/algorithm/easy/LowestCommonAncestorOfABinarySearchTree_235.java" />
         <option value="$PROJECT_DIR$/src/algorithm/hard/NQueens_51.java" />
         <option value="$PROJECT_DIR$/src/algorithm/hard/NQueenII_52.java" />
@@ -123,7 +144,13 @@
         <option value="$PROJECT_DIR$/src/algorithm/ListNode.java" />
         <option value="$PROJECT_DIR$/src/algorithm/easy/ListNode.java" />
         <option value="$PROJECT_DIR$/src/algorithm/easy/OddEvenLinkedList_328.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/easy/TreeNode.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/vo/TreeNode.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/vo/ListNode.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/medium/BinaryTreeInorderTraversal_94.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/medium/BinaryTreePreorderTraversal_144.java" />
         <option value="$PROJECT_DIR$/src/TestMain.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/easy/NumberOf1Bits_191.java" />
       </list>
     </option>
   </component>
@@ -582,12 +609,12 @@
       <workItem from="1453254819753" duration="1264000" />
       <workItem from="1453333522466" duration="8973000" />
       <workItem from="1453681963774" duration="564000" />
-      <workItem from="1453857042848" duration="21299000" />
+      <workItem from="1453857042848" duration="23066000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="98225000" />
+    <option name="totallyTimeSpent" value="99992000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1431" y="24" width="1855" height="1056" extended-state="6" />
@@ -610,8 +637,8 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2498615" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27479225" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.42071196" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16232687" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25134844" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32963988" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
@@ -661,14 +688,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="126" column="8" selection-start-line="126" selection-start-column="8" selection-end-line="126" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/JDK/jdk1.7.0_40/src.zip!/java/lang/Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.25027934">
-          <caret line="762" column="19" selection-start-line="762" selection-start-column="19" selection-end-line="762" selection-end-column="19" />
           <folding />
         </state>
       </provider>
@@ -932,25 +951,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/medium/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.1877095">
-          <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/easy/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.25027934">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding>
-            <element signature="e#122#123#0" expanded="false" />
-            <element signature="e#145#146#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/JDK/jdk1.7.0_40/src.zip!/java/util/Deque.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.3329609">
@@ -980,30 +980,6 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="48" column="6" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/medium/BinaryTreePreorderTraversal_144.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.28044692">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-          <folding>
-            <element signature="e#599#608#0" expanded="true" />
-            <element signature="e#994#1004#0" expanded="true" />
-            <element signature="e#1077#1086#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/medium/BinaryTreeInorderTraversal_94.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.09385475">
-          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
-          <folding>
-            <element signature="e#544#553#0" expanded="true" />
-            <element signature="e#852#862#0" expanded="true" />
-            <element signature="e#943#952#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1051,27 +1027,82 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/TestMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="1" column="44" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/easy/ListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/algorithm/easy/OddEvenLinkedList_328.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.43798882">
           <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/medium/BinaryTreeInorderTraversal_94.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6558659">
+          <caret line="28" column="26" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#575#584#0" expanded="true" />
+            <element signature="e#883#893#0" expanded="true" />
+            <element signature="e#974#983#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/medium/BinaryTreePreorderTraversal_144.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.3452514">
+          <caret line="47" column="27" selection-start-line="47" selection-start-column="27" selection-end-line="47" selection-end-column="27" />
+          <folding>
+            <element signature="e#630#639#0" expanded="true" />
+            <element signature="e#1025#1035#0" expanded="true" />
+            <element signature="e#1108#1117#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/vo/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.12513967">
+          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/vo/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.21899441">
+          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+          <folding>
+            <element signature="e#148#149#0" expanded="true" />
+            <element signature="e#171#172#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/JDK/jdk1.7.0_40/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="51" column="19" selection-start-line="51" selection-start-column="19" selection-end-line="51" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TestMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/easy/NumberOf1Bits_191.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.23910615">
+          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+          <folding>
+            <element signature="e#430#431#0" expanded="true" />
+            <element signature="e#472#473#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

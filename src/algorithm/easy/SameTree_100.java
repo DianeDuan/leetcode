@@ -1,5 +1,7 @@
 package algorithm.easy;
 
+import algorithm.vo.TreeNode;
+
 /**
  * Problem:
  * https://leetcode.com/problems/same-tree/

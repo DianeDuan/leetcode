@@ -1,4 +1,4 @@
-package algorithm.easy;
+package algorithm.vo;
 
 public class ListNode {
     public int val;
