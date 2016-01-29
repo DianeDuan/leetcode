@@ -10,7 +10,7 @@ package algorithm.medium;
  * the right subtree root must be in [i+1, n].
  * Use a count array to record the counts of unique binary trees,
  * count[i] equals to the count of unique binary trees which store 1, 2, ..., i.
- *
+ * <p/>
  * Reference:
  * http://fisherlei.blogspot.com/2013/03/leetcode-unique-binary-search-trees.html
  * https://siddontang.gitbooks.io/leetcode-solution/content/dynamic_programming/unique_binary_search_trees.html
