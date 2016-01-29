@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6fd48995-ee36-4612-8f4a-564b39bcf140" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="6fd48995-ee36-4612-8f4a-564b39bcf140" name="Default" comment="" />
     <ignored path="leetcode.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -27,21 +25,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="SearchInsertPosition_35.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/algorithm/medium/SearchInsertPosition_35.java">
+      <file leaf-file-name="TestMain.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/TestMain.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+              <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestMain.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/TestMain.java">
+      <file leaf-file-name="UniqueBinarySearchTree_96.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/algorithm/medium/UniqueBinarySearchTree_96.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.031284917">
-              <caret line="1" column="44" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="44" />
+            <state vertical-scroll-proportion="0.46927375">
+              <caret line="15" column="111" selection-start-line="15" selection-start-column="111" selection-end-line="15" selection-end-column="111" />
               <folding />
             </state>
           </provider>
@@ -68,8 +66,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/test/TestMain.java" />
-        <option value="$PROJECT_DIR$/src/algorithms/TwoSum_1.java" />
         <option value="$PROJECT_DIR$/src/database/easy/medium/Temp.java" />
         <option value="$PROJECT_DIR$/src/database/easy/medium/Tesp2.java" />
         <option value="$PROJECT_DIR$/src/shell/Temp.java" />
@@ -119,6 +115,8 @@
         <option value="$PROJECT_DIR$/src/algorithm/medium/LinkedListCycle_141.java" />
         <option value="$PROJECT_DIR$/src/algorithm/medium/SearchInsertPosition_35.java" />
         <option value="$PROJECT_DIR$/src/TestMain.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/medium/UniqueBinarySearchTree.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/medium/UniqueBinarySearchTree_96.java" />
       </list>
     </option>
   </component>
@@ -587,12 +585,12 @@
       <workItem from="1453857042848" duration="27321000" />
       <workItem from="1453949821503" duration="3059000" />
       <workItem from="1453973765345" duration="5296000" />
-      <workItem from="1454035708631" duration="3512000" />
+      <workItem from="1454035708631" duration="6193000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="116114000" />
+    <option name="totallyTimeSpent" value="118795000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1431" y="24" width="1855" height="1056" extended-state="6" />
@@ -655,13 +653,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/algorithm/hard/BestTimeToBuyAndSellStockIV_188.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="4" column="68" selection-start-line="4" selection-start-column="68" selection-end-line="4" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/algorithm/medium/BestTimeToBuyAndSellStockII_122.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -885,8 +876,8 @@
         <state vertical-scroll-proportion="0.46927375">
           <caret line="18" column="15" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1431#1451#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#1431#1451#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1049,7 +1040,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/algorithm/medium/SearchInsertPosition_35.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.28156424">
           <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
           <folding />
         </state>
@@ -1057,8 +1048,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/TestMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.031284917">
-          <caret line="1" column="44" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="44" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/medium/UniqueBinarySearchTree_96.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.46927375">
+          <caret line="15" column="111" selection-start-line="15" selection-start-column="111" selection-end-line="15" selection-end-column="111" />
           <folding />
         </state>
       </provider>
