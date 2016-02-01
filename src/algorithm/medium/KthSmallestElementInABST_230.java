@@ -12,6 +12,10 @@ import java.util.Stack;
  * BST's property is every node in left subtree is less than current node,
  * and every node in right subtree is greater than current node.
  * So to find the kth smallest element problem equals to find the kth node in an inorder traverse.
+ * <p/>
+ * Follow up:
+ * If the BST is modified (insert/delete operations) often and the operation of finding the kth smallest is frequent,
+ * we can add a variable to TreeNode class which record the count of nodes in the left subtree of current node.
  */
 public class KthSmallestElementInABST_230 {
     public int kthSmallest(TreeNode root, int k) {
