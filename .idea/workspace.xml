@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6fd48995-ee36-4612-8f4a-564b39bcf140" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/algorithm/easy/ImplementQueueUsingStacks_232.java" afterPath="$PROJECT_DIR$/src/algorithm/easy/ImplementQueueUsingStacks_232.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TestMain.java" afterPath="$PROJECT_DIR$/src/TestMain.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dictionaries/dianeduan.xml" afterPath="$PROJECT_DIR$/.idea/dictionaries/dianeduan.xml" />
     </list>
     <ignored path="leetcode.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -31,28 +33,18 @@
         <entry file="file://$PROJECT_DIR$/src/TestMain.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="3" column="44" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
+              <caret line="1" column="44" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="44" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ImplementStackUsingQueues_225.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/algorithm/easy/ImplementStackUsingQueues_225.java">
+      <file leaf-file-name="BalancedBinaryTree_110.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/algorithm/easy/BalancedBinaryTree_110.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.90726256">
-              <caret line="41" column="1" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#314#323#0" expanded="true" />
-                <element signature="e#368#377#0" expanded="true" />
-                <element signature="e#709#710#0" expanded="true" />
-                <element signature="e#737#738#0" expanded="true" />
-                <element signature="e#789#790#0" expanded="true" />
-                <element signature="e#824#825#0" expanded="true" />
-                <element signature="e#896#897#0" expanded="true" />
-                <element signature="e#934#935#0" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="0.31284916">
+              <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -78,7 +70,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/algorithm/medium/SingleNumberII_137.java" />
         <option value="$PROJECT_DIR$/src/algorithm/medium/SingleNumberIII_260.java" />
         <option value="$PROJECT_DIR$/src/algorithm/hard/BestTimeToBuyAndSellStockIII_123.java" />
         <option value="$PROJECT_DIR$/src/algorithm/hard/BestTimeToBuyAndSellStockIV_188.java" />
@@ -129,6 +120,7 @@
         <option value="$PROJECT_DIR$/src/algorithm/easy/ImplementQueueUsingStacks_232.java" />
         <option value="$PROJECT_DIR$/src/TestMain.java" />
         <option value="$PROJECT_DIR$/src/algorithm/easy/ImplementStackUsingQueues_225.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/easy/BalancedBinaryTree_110.java" />
       </list>
     </option>
   </component>
@@ -604,12 +596,12 @@
       <workItem from="1454131026737" duration="474000" />
       <workItem from="1454131927398" duration="302000" />
       <workItem from="1454204923910" duration="3437000" />
-      <workItem from="1454293918836" duration="19539000" />
+      <workItem from="1454293918836" duration="22450000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="153244000" />
+    <option name="totallyTimeSpent" value="156155000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1431" y="24" width="1855" height="1056" extended-state="6" />
@@ -672,13 +664,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/algorithm/easy/ValidAnagram_242.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.43798882">
-          <caret line="20" column="79" selection-start-line="20" selection-start-column="79" selection-end-line="20" selection-end-column="79" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/JDK/jdk1.7.0_40/src.zip!/java/util/Deque.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.3329609">
@@ -1097,12 +1082,29 @@
           <folding>
             <element signature="e#286#295#0" expanded="true" />
             <element signature="e#335#344#0" expanded="true" />
-            <element signature="e#685#686#0" expanded="true" />
-            <element signature="e#712#713#0" expanded="true" />
-            <element signature="e#767#768#0" expanded="true" />
-            <element signature="e#802#803#0" expanded="true" />
-            <element signature="e#874#875#0" expanded="true" />
-            <element signature="e#910#911#0" expanded="true" />
+            <element signature="e#686#687#0" expanded="true" />
+            <element signature="e#713#714#0" expanded="true" />
+            <element signature="e#768#769#0" expanded="true" />
+            <element signature="e#803#804#0" expanded="true" />
+            <element signature="e#875#876#0" expanded="true" />
+            <element signature="e#911#912#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/easy/ImplementStackUsingQueues_225.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.37430167">
+          <caret line="28" column="23" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#314#323#0" expanded="true" />
+            <element signature="e#368#377#0" expanded="true" />
+            <element signature="e#737#738#0" expanded="true" />
+            <element signature="e#789#790#0" expanded="true" />
+            <element signature="e#824#825#0" expanded="true" />
+            <element signature="e#896#897#0" expanded="true" />
+            <element signature="e#934#935#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1110,26 +1112,16 @@
     <entry file="file://$PROJECT_DIR$/src/TestMain.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="3" column="44" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
+          <caret line="1" column="44" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="44" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/easy/ImplementStackUsingQueues_225.java">
+    <entry file="file://$PROJECT_DIR$/src/algorithm/easy/BalancedBinaryTree_110.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.90726256">
-          <caret line="41" column="1" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#314#323#0" expanded="true" />
-            <element signature="e#368#377#0" expanded="true" />
-            <element signature="e#709#710#0" expanded="true" />
-            <element signature="e#737#738#0" expanded="true" />
-            <element signature="e#789#790#0" expanded="true" />
-            <element signature="e#824#825#0" expanded="true" />
-            <element signature="e#896#897#0" expanded="true" />
-            <element signature="e#934#935#0" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.31284916">
+          <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+          <folding />
         </state>
       </provider>
     </entry>
