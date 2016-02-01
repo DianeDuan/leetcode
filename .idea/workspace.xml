@@ -2,64 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6fd48995-ee36-4612-8f4a-564b39bcf140" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/RemoveDuplicatesFromSortedList_83.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/UglyNumber_263.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithm/easy/RemoveDuplicatesFromSortedList_83.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithm/easy/UglyNumber_263.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/AddDigits_258.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/AddDigits_258.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/hard/BestTimeToBuyAndSellStockIII_123.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/hard/BestTimeToBuyAndSellStockIII_123.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/medium/BestTimeToBuyAndSellStockII_122.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/medium/BestTimeToBuyAndSellStockII_122.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/hard/BestTimeToBuyAndSellStockIV_188.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/hard/BestTimeToBuyAndSellStockIV_188.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/medium/BestTimeToBuyAndSellStockWithCooldown_309.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/medium/BestTimeToBuyAndSellStockWithCooldown_309.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/medium/BestTimeToBuyAndSellStock_121.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/medium/BestTimeToBuyAndSellStock_121.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/medium/BinaryTreeInorderTraversal_94.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/medium/BinaryTreeInorderTraversal_94.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/medium/BinaryTreePreorderTraversal_144.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/medium/BinaryTreePreorderTraversal_144.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/medium/BulbSwitcher_319.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/medium/BulbSwitcher_319.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/ClimbingStairs_70.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/ClimbingStairs_70.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/medium/ContainsDuplicateIII_220.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/medium/ContainsDuplicateIII_220.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/ContainsDuplicateII_219.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/ContainsDuplicateII_219.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/ContainsDuplicate_217.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/ContainsDuplicate_217.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/medium/ConvertSortedArrayToBinarySearchTree_108.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/medium/ConvertSortedArrayToBinarySearchTree_108.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/DeleteNodeInALinkedList_237.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/DeleteNodeInALinkedList_237.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/ExcelSheetColumnNumber_171.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/ExcelSheetColumnNumber_171.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/ExcelSheetColumnTitle_168.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/ExcelSheetColumnTitle_168.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/hard/FindTheDuplicateNumber_287.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/hard/FindTheDuplicateNumber_287.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/medium/IntegerToRoman_12.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/medium/IntegerToRoman_12.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/InvertBinaryTree_226.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/InvertBinaryTree_226.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/medium/LinkedListCycle_141.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/medium/LinkedListCycle_141.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/vo/ListNode.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/vo/ListNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/LowestCommonAncestorOfABinarySearchTree_235.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/LowestCommonAncestorOfABinarySearchTree_235.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/medium/MajorityElementII_229.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/medium/MajorityElementII_229.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/MajorityElement_169.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/MajorityElement_169.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/MaximumDepthOfBinaryTree_104.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/MaximumDepthOfBinaryTree_104.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/medium/MaximumProductOfWordLengths_318.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/medium/MaximumProductOfWordLengths_318.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/medium/MaximumSubarray_53.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/medium/MaximumSubarray_53.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/medium/MissingNumber_268.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/medium/MissingNumber_268.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/MoveZeroes_283.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/MoveZeroes_283.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/hard/NQueenII_52.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/hard/NQueenII_52.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/hard/NQueens_51.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/hard/NQueens_51.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/NimName_292.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/NimName_292.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/NumberOf1Bits_191.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/NumberOf1Bits_191.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/OddEvenLinkedList_328.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/OddEvenLinkedList_328.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/medium/PopulatingNextRightPointersInEachNode_116.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/medium/PopulatingNextRightPointersInEachNode_116.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/medium/ProductOfArrayExceptSelf_238.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/medium/ProductOfArrayExceptSelf_238.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/ReverseLinkedList_206.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/ReverseLinkedList_206.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/RomanToInteger_13.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/RomanToInteger_13.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/SameTree_100.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/SameTree_100.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/medium/SearchInsertPosition_35.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/medium/SearchInsertPosition_35.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/medium/SingleNumberIII_260.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/medium/SingleNumberIII_260.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/medium/SingleNumberII_137.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/medium/SingleNumberII_137.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/medium/SingleNumber_136.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/medium/SingleNumber_136.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/TestMain.class" afterPath="$PROJECT_DIR$/target/classes/TestMain.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/vo/TreeLinkNode.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/vo/TreeLinkNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/vo/TreeNode.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/vo/TreeNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/medium/UniqueBinarySearchTreeII_95.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/medium/UniqueBinarySearchTreeII_95.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/medium/UniqueBinarySearchTree_96.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/medium/UniqueBinarySearchTree_96.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/ValidAnagram_242.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/ValidAnagram_242.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/leetcode.iml" afterPath="$PROJECT_DIR$/.idea/leetcode.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TODO.md" afterPath="$PROJECT_DIR$/src/TODO.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dictionaries/dianeduan.xml" afterPath="$PROJECT_DIR$/.idea/dictionaries/dianeduan.xml" />
     </list>
     <ignored path="leetcode.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -88,18 +32,21 @@
         <entry file="file://$PROJECT_DIR$/src/TestMain.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="1" column="44" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="44" />
+              <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ClimbingStairs_70.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/algorithm/easy/ClimbingStairs_70.java">
+      <file leaf-file-name="KthSmallestElementInABST_230.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/algorithm/medium/KthSmallestElementInABST_230.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.40223464">
-              <caret line="30" column="21" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
-              <folding />
+            <state vertical-scroll-proportion="1.1575419">
+              <caret line="37" column="5" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#624#634#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -125,8 +72,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/algorithm/medium/ProductOfArrayExceptSelf_238.java" />
-        <option value="$PROJECT_DIR$/src/algorithm/hard/FindTheDuplicateNumber_287.java" />
         <option value="$PROJECT_DIR$/src/algorithm/easy/NimName_292.java" />
         <option value="$PROJECT_DIR$/src/algorithm/medium/SingleNumber_136.java" />
         <option value="$PROJECT_DIR$/src/algorithm/easy/AddDigits_258.java" />
@@ -169,13 +114,15 @@
         <option value="$PROJECT_DIR$/src/algorithm/medium/UniqueBinarySearchTree.java" />
         <option value="$PROJECT_DIR$/src/algorithm/medium/UniqueBinarySearchTree_96.java" />
         <option value="$PROJECT_DIR$/src/algorithm/medium/UniqueBinarySearchTreeII_95.java" />
-        <option value="$PROJECT_DIR$/src/TODO.md" />
         <option value="$PROJECT_DIR$/src/algorithm/vo/TreeLinkNode.java" />
         <option value="$PROJECT_DIR$/src/algorithm/medium/PopulatingNextRightPointersInEachNode_116.java" />
         <option value="$PROJECT_DIR$/src/algorithm/medium/ConvertSortedArrayToBinarySearchTree_108.java" />
         <option value="$PROJECT_DIR$/src/algorithm/medium/MaximumSubarray_53.java" />
         <option value="$PROJECT_DIR$/src/TestMain.java" />
         <option value="$PROJECT_DIR$/src/algorithm/easy/ClimbingStairs_70.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/medium/VerifyPreorderSerializationOfABinaryTree_331.java" />
+        <option value="$PROJECT_DIR$/src/TODO.md" />
+        <option value="$PROJECT_DIR$/src/algorithm/medium/KthSmallestElementInABST_230.java" />
       </list>
     </option>
   </component>
@@ -194,8 +141,8 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1434" />
-    <option name="y" value="57" />
+    <option name="x" value="1431" />
+    <option name="y" value="24" />
     <option name="width" value="1855" />
     <option name="height" value="1056" />
   </component>
@@ -290,15 +237,15 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="easy" />
+              <option name="myItemId" value="medium" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -651,15 +598,15 @@
       <workItem from="1454131026737" duration="474000" />
       <workItem from="1454131927398" duration="302000" />
       <workItem from="1454204923910" duration="3437000" />
-      <workItem from="1454293918836" duration="3000" />
+      <workItem from="1454293918836" duration="4968000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="133708000" />
+    <option name="totallyTimeSpent" value="138673000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1434" y="57" width="1855" height="1056" extended-state="0" />
+    <frame x="1431" y="24" width="1855" height="1056" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -667,24 +614,24 @@
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32901832" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32901832" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.42934197" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.80798274" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32901832" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2498615" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24265929" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24265929" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2772384" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32901832" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.42934197" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32901832" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32963988" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2772384" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
@@ -719,20 +666,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/algorithm/easy/ContainsDuplicateII_219.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/easy/DeleteNodeInALinkedList_237.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/algorithm/easy/ExcelSheetColumnNumber_171.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -878,13 +811,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/medium/BinaryTreeInorderTraversal_94.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="28" column="26" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -892,6 +819,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -899,6 +827,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="47" column="27" selection-start-line="47" selection-start-column="27" selection-end-line="47" selection-end-column="27" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -906,6 +835,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -913,6 +843,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -920,6 +851,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="79" column="13" selection-start-line="79" selection-start-column="13" selection-end-line="79" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -927,6 +859,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="35" column="26" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -934,6 +867,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="7" column="111" selection-start-line="7" selection-start-column="111" selection-end-line="7" selection-end-column="111" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -941,6 +875,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="73" column="22" selection-start-line="73" selection-start-column="22" selection-end-line="73" selection-end-column="22" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -948,6 +883,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="13" column="60" selection-start-line="13" selection-start-column="60" selection-end-line="13" selection-end-column="60" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -955,6 +891,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="24" column="90" selection-start-line="24" selection-start-column="90" selection-end-line="24" selection-end-column="90" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -983,6 +920,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -990,6 +928,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.062569834">
           <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -997,6 +936,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.28156424">
           <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1004,6 +944,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.46927375">
           <caret line="15" column="111" selection-start-line="15" selection-start-column="111" selection-end-line="15" selection-end-column="111" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1011,19 +952,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.25027934">
           <caret line="8" column="53" selection-start-line="8" selection-start-column="53" selection-end-line="8" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TODO.md">
-      <provider editor-type-id="MultiMarkdownHtmlEditor">
-        <state />
-      </provider>
-      <provider editor-type-id="MultiMarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.12993039">
-          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1031,6 +960,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.43798882">
           <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#277#278#0" expanded="false" />
+            <element signature="e#304#305#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1052,6 +986,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="19" column="31" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#905#919#0" expanded="true" />
+            <element signature="e#974#988#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1059,6 +998,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.21943574">
           <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1066,13 +1006,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.7445141">
           <caret line="26" column="23" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TestMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="1" column="44" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="44" />
           <folding />
         </state>
       </provider>
@@ -1082,6 +1015,57 @@
         <state vertical-scroll-proportion="0.40223464">
           <caret line="30" column="21" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/medium/VerifyPreorderSerializationOfABinaryTree_331.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="59" selection-start-line="12" selection-start-column="59" selection-end-line="12" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TODO.md">
+      <provider editor-type-id="MultiMarkdownHtmlEditor">
+        <state />
+      </provider>
+      <provider editor-type-id="MultiMarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1948956">
+          <caret line="6" column="46" selection-start-line="6" selection-start-column="46" selection-end-line="6" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/medium/BinaryTreeInorderTraversal_94.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="3" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TestMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/medium/KthSmallestElementInABST_230.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.1575419">
+          <caret line="37" column="5" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#624#634#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
