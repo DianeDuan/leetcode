@@ -2,6 +2,63 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6fd48995-ee36-4612-8f4a-564b39bcf140" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/RemoveDuplicatesFromSortedList_83.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/UglyNumber_263.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithm/easy/RemoveDuplicatesFromSortedList_83.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithm/easy/UglyNumber_263.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/AddDigits_258.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/AddDigits_258.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/hard/BestTimeToBuyAndSellStockIII_123.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/hard/BestTimeToBuyAndSellStockIII_123.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/medium/BestTimeToBuyAndSellStockII_122.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/medium/BestTimeToBuyAndSellStockII_122.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/hard/BestTimeToBuyAndSellStockIV_188.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/hard/BestTimeToBuyAndSellStockIV_188.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/medium/BestTimeToBuyAndSellStockWithCooldown_309.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/medium/BestTimeToBuyAndSellStockWithCooldown_309.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/medium/BestTimeToBuyAndSellStock_121.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/medium/BestTimeToBuyAndSellStock_121.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/medium/BinaryTreeInorderTraversal_94.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/medium/BinaryTreeInorderTraversal_94.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/medium/BinaryTreePreorderTraversal_144.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/medium/BinaryTreePreorderTraversal_144.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/medium/BulbSwitcher_319.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/medium/BulbSwitcher_319.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/ClimbingStairs_70.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/ClimbingStairs_70.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/medium/ContainsDuplicateIII_220.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/medium/ContainsDuplicateIII_220.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/ContainsDuplicateII_219.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/ContainsDuplicateII_219.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/ContainsDuplicate_217.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/ContainsDuplicate_217.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/medium/ConvertSortedArrayToBinarySearchTree_108.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/medium/ConvertSortedArrayToBinarySearchTree_108.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/DeleteNodeInALinkedList_237.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/DeleteNodeInALinkedList_237.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/ExcelSheetColumnNumber_171.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/ExcelSheetColumnNumber_171.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/ExcelSheetColumnTitle_168.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/ExcelSheetColumnTitle_168.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/hard/FindTheDuplicateNumber_287.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/hard/FindTheDuplicateNumber_287.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/medium/IntegerToRoman_12.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/medium/IntegerToRoman_12.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/InvertBinaryTree_226.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/InvertBinaryTree_226.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/medium/LinkedListCycle_141.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/medium/LinkedListCycle_141.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/vo/ListNode.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/vo/ListNode.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/LowestCommonAncestorOfABinarySearchTree_235.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/LowestCommonAncestorOfABinarySearchTree_235.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/medium/MajorityElementII_229.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/medium/MajorityElementII_229.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/MajorityElement_169.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/MajorityElement_169.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/MaximumDepthOfBinaryTree_104.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/MaximumDepthOfBinaryTree_104.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/medium/MaximumProductOfWordLengths_318.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/medium/MaximumProductOfWordLengths_318.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/medium/MaximumSubarray_53.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/medium/MaximumSubarray_53.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/medium/MissingNumber_268.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/medium/MissingNumber_268.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/MoveZeroes_283.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/MoveZeroes_283.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/hard/NQueenII_52.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/hard/NQueenII_52.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/hard/NQueens_51.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/hard/NQueens_51.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/NimName_292.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/NimName_292.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/NumberOf1Bits_191.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/NumberOf1Bits_191.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/OddEvenLinkedList_328.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/OddEvenLinkedList_328.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/medium/PopulatingNextRightPointersInEachNode_116.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/medium/PopulatingNextRightPointersInEachNode_116.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/medium/ProductOfArrayExceptSelf_238.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/medium/ProductOfArrayExceptSelf_238.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/ReverseLinkedList_206.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/ReverseLinkedList_206.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/RomanToInteger_13.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/RomanToInteger_13.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/SameTree_100.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/SameTree_100.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/medium/SearchInsertPosition_35.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/medium/SearchInsertPosition_35.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/medium/SingleNumberIII_260.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/medium/SingleNumberIII_260.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/medium/SingleNumberII_137.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/medium/SingleNumberII_137.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/medium/SingleNumber_136.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/medium/SingleNumber_136.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/TestMain.class" afterPath="$PROJECT_DIR$/target/classes/TestMain.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/vo/TreeLinkNode.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/vo/TreeLinkNode.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/vo/TreeNode.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/vo/TreeNode.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/medium/UniqueBinarySearchTreeII_95.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/medium/UniqueBinarySearchTreeII_95.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/medium/UniqueBinarySearchTree_96.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/medium/UniqueBinarySearchTree_96.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/ValidAnagram_242.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/ValidAnagram_242.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/leetcode.iml" afterPath="$PROJECT_DIR$/.idea/leetcode.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="leetcode.iws" />
@@ -40,7 +97,7 @@
       <file leaf-file-name="ClimbingStairs_70.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/algorithm/easy/ClimbingStairs_70.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.9385475">
+            <state vertical-scroll-proportion="0.40223464">
               <caret line="30" column="21" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
               <folding />
             </state>
@@ -137,8 +194,8 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1431" />
-    <option name="y" value="24" />
+    <option name="x" value="1434" />
+    <option name="y" value="57" />
     <option name="width" value="1855" />
     <option name="height" value="1056" />
   </component>
@@ -588,17 +645,22 @@
       <workItem from="1453949821503" duration="3059000" />
       <workItem from="1453973765345" duration="5296000" />
       <workItem from="1454035708631" duration="18371000" />
-      <workItem from="1454064573246" duration="2995000" />
-      <workItem from="1454293372568" duration="5000" />
+      <workItem from="1454064573246" duration="2732000" />
+      <workItem from="1454125268482" duration="724000" />
+      <workItem from="1454130898639" duration="22000" />
+      <workItem from="1454131026737" duration="474000" />
+      <workItem from="1454131927398" duration="302000" />
+      <workItem from="1454204923910" duration="3437000" />
+      <workItem from="1454293918836" duration="3000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="133973000" />
+    <option name="totallyTimeSpent" value="133708000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1431" y="24" width="1855" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="1434" y="57" width="1855" height="1056" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1017,7 +1079,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/algorithm/easy/ClimbingStairs_70.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.9385475">
+        <state vertical-scroll-proportion="0.40223464">
           <caret line="30" column="21" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
           <folding />
         </state>
