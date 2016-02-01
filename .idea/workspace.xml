@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6fd48995-ee36-4612-8f4a-564b39bcf140" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/algorithm/easy/ImplementQueueUsingStacks_232.java" afterPath="$PROJECT_DIR$/src/algorithm/easy/ImplementQueueUsingStacks_232.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TestMain.java" afterPath="$PROJECT_DIR$/src/TestMain.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dictionaries/dianeduan.xml" afterPath="$PROJECT_DIR$/.idea/dictionaries/dianeduan.xml" />
-    </list>
+    <list default="true" id="6fd48995-ee36-4612-8f4a-564b39bcf140" name="Default" comment="" />
     <ignored path="leetcode.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -28,28 +24,7 @@
     <favorites_list name="leetcode" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="TestMain.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/TestMain.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="1" column="44" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="44" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BalancedBinaryTree_110.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/algorithm/easy/BalancedBinaryTree_110.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.31284916">
-              <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -70,7 +45,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/algorithm/medium/SingleNumberIII_260.java" />
         <option value="$PROJECT_DIR$/src/algorithm/hard/BestTimeToBuyAndSellStockIII_123.java" />
         <option value="$PROJECT_DIR$/src/algorithm/hard/BestTimeToBuyAndSellStockIV_188.java" />
         <option value="$PROJECT_DIR$/src/algorithm/medium/BestTimeToBuyAndSellStockWithCooldown_309.java" />
@@ -118,9 +92,10 @@
         <option value="$PROJECT_DIR$/src/algorithm/easy/PowerOfTwo_231.java" />
         <option value="$PROJECT_DIR$/src/algorithm/easy/MergeTwoSortedLists_21.java" />
         <option value="$PROJECT_DIR$/src/algorithm/easy/ImplementQueueUsingStacks_232.java" />
-        <option value="$PROJECT_DIR$/src/TestMain.java" />
         <option value="$PROJECT_DIR$/src/algorithm/easy/ImplementStackUsingQueues_225.java" />
         <option value="$PROJECT_DIR$/src/algorithm/easy/BalancedBinaryTree_110.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/easy/SymmetricTree_101.java" />
+        <option value="$PROJECT_DIR$/src/TestMain.java" />
       </list>
     </option>
   </component>
@@ -596,16 +571,16 @@
       <workItem from="1454131026737" duration="474000" />
       <workItem from="1454131927398" duration="302000" />
       <workItem from="1454204923910" duration="3437000" />
-      <workItem from="1454293918836" duration="22450000" />
+      <workItem from="1454293918836" duration="25867000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="156155000" />
+    <option name="totallyTimeSpent" value="159572000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1431" y="24" width="1855" height="1056" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -624,7 +599,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2498615" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24265929" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24265929" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2772384" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -647,7 +622,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="52" />
+      <option name="time" value="55" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
@@ -664,13 +639,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$USER_HOME$/JDK/jdk1.7.0_40/src.zip!/java/util/Deque.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3329609">
-          <caret line="193" column="37" selection-start-line="193" selection-start-column="37" selection-end-line="193" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/JDK/jdk1.7.0_40/src.zip!/java/util/LinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.61452514">
@@ -1109,19 +1077,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/TestMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="1" column="44" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/algorithm/easy/BalancedBinaryTree_110.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.31284916">
           <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TestMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.031284917">
+          <caret line="1" column="44" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/easy/SymmetricTree_101.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.9083799">
+          <caret line="61" column="39" selection-start-line="61" selection-start-column="39" selection-end-line="61" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#965#975#0" expanded="true" />
+            <element signature="e#1026#1036#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
