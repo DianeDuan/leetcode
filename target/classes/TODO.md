@@ -7,4 +7,6 @@ N-Queens II
 Unique Binary Search Tree II
 Verify Preorder Serialization Of a Binary Tree
 
-easy: total 48, locked 12
+easy:
+unlocked 25
+locked 12
