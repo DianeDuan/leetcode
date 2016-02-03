@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6fd48995-ee36-4612-8f4a-564b39bcf140" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="6fd48995-ee36-4612-8f4a-564b39bcf140" name="Default" comment="" />
     <ignored path="leetcode.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -27,22 +25,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="TestMain.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TestMain.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/TestMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.031284917">
+            <state vertical-scroll-proportion="0.0">
               <caret line="1" column="44" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="44" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BullsAndCows_299.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/algorithm/easy/BullsAndCows_299.java">
+      <file leaf-file-name="WordPattern_290.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/algorithm/easy/WordPattern_290.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="36" column="23" selection-start-line="36" selection-start-column="23" selection-end-line="36" selection-end-column="23" />
-              <folding />
+            <state vertical-scroll-proportion="0.030167598">
+              <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#580#599#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -68,7 +69,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/algorithm/easy/NumberOf1Bits_191.java" />
         <option value="$PROJECT_DIR$/src/algorithm/easy/ReverseLinkedList_206.java" />
         <option value="$PROJECT_DIR$/src/algorithm/easy/RomanToInteger_13.java" />
         <option value="$PROJECT_DIR$/src/algorithm/medium/IntegerToRoman_12.java" />
@@ -119,6 +119,7 @@
         <option value="$PROJECT_DIR$/src/algorithm/easy/IsomorphicStrings_205.java" />
         <option value="$PROJECT_DIR$/src/TestMain.java" />
         <option value="$PROJECT_DIR$/src/algorithm/easy/BullsAndCows_299.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/easy/WordPattern_290.java" />
       </list>
     </option>
   </component>
@@ -600,12 +601,12 @@
       <workItem from="1454293918836" duration="30756000" />
       <workItem from="1454379191972" duration="10532000" />
       <workItem from="1454396255383" duration="19300000" />
-      <workItem from="1454460022165" duration="16739000" />
+      <workItem from="1454460022165" duration="17630000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="211032000" />
+    <option name="totallyTimeSpent" value="211923000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1431" y="24" width="1855" height="1056" extended-state="6" />
@@ -660,14 +661,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/algorithm/medium/UniqueBinarySearchTree_96.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.46927375">
-          <caret line="15" column="111" selection-start-line="15" selection-start-column="111" selection-end-line="15" selection-end-column="111" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/algorithm/medium/IntegerToRoman_12.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.25027934">
@@ -1132,8 +1125,8 @@
         <state vertical-scroll-proportion="0.6256983">
           <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#453#475#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#453#475#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1148,9 +1141,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/TestMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.031284917">
+        <state vertical-scroll-proportion="0.0">
           <caret line="1" column="44" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="44" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/easy/WordPattern_290.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.030167598">
+          <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#580#599#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
