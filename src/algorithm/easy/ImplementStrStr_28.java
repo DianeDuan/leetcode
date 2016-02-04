@@ -74,13 +74,13 @@ public class ImplementStrStr_28 {
             int pos = 2;
             int candidate = 0;
             while (pos < s.length()) {
-                if (s.charAt(pos - 1) == s.charAt(candidate)) {
+                if (s.charAt(pos - 1) == s.charAt(candidate)) {//first case: the substring continues
                     t[pos] = candidate + 1;
                     candidate++;
                     pos++;
-                } else if (candidate > 0) {
+                } else if (candidate > 0) {//second case: it doesn't, but we can fall back
                     candidate = t[candidate];
-                } else {
+                } else {//third case: we have run out of candidates.  Note cnd = 0
                     t[pos] = 0;
                     pos++;
                 }
