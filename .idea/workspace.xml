@@ -27,26 +27,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="FirstBadVersion_278.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/algorithm/easy/FirstBadVersion_278.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="12" column="34" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="34" />
-              <folding>
-                <element signature="e#259#260#0" expanded="true" />
-                <element signature="e#300#301#0" expanded="true" />
-                <element signature="e#847#848#0" expanded="true" />
-                <element signature="e#891#892#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="TestMain.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/TestMain.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.043887146">
               <caret line="1" column="44" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ZigZagConversion_6.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/algorithm/easy/ZigZagConversion_6.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="19" column="50" selection-start-line="19" selection-start-column="50" selection-end-line="19" selection-end-column="50" />
               <folding />
             </state>
           </provider>
@@ -73,7 +68,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/algorithm/easy/ValidParentheses_20.java" />
         <option value="$PROJECT_DIR$/src/algorithm/medium/GenerateParentheses_22.java" />
         <option value="$PROJECT_DIR$/src/algorithm/easy/PowerOfThree_326.java" />
         <option value="$PROJECT_DIR$/src/algorithm/easy/PowerOfTwo_231.java" />
@@ -123,6 +117,7 @@
         <option value="$PROJECT_DIR$/src/algorithm/easy/MinStack_155.java" />
         <option value="$PROJECT_DIR$/src/algorithm/easy/ValidPalindrome_125.java" />
         <option value="$PROJECT_DIR$/src/algorithm/easy/FirstBadVersion_278.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/easy/ZigZagConversion_6.java" />
         <option value="$PROJECT_DIR$/src/TestMain.java" />
       </list>
     </option>
@@ -606,12 +601,12 @@
       <workItem from="1454379191972" duration="10532000" />
       <workItem from="1454396255383" duration="19300000" />
       <workItem from="1454460022165" duration="32959000" />
-      <workItem from="1454549187443" duration="19932000" />
+      <workItem from="1454549187443" duration="21641000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="247184000" />
+    <option name="totallyTimeSpent" value="248893000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1431" y="24" width="1855" height="1056" extended-state="6" />
@@ -671,7 +666,7 @@
           <option name="timeStamp" value="123" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="125" />
+      <option name="time" value="131" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
@@ -679,6 +674,7 @@
         <watch expression="mid" language="JAVA" custom="" />
         <watch expression="mid+1" language="JAVA" custom="" />
         <watch expression="mid+2" language="JAVA" custom="" />
+        <watch expression="builders[i]" language="JAVA" custom="" />
       </configuration>
     </watches-manager>
   </component>
@@ -687,14 +683,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/algorithm/easy/MergeTwoSortedLists_21.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.28156424">
-          <caret line="9" column="84" selection-start-line="9" selection-start-column="84" selection-end-line="9" selection-end-column="84" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/JDK/jdk1.7.0_40/src.zip!/java/util/Stack.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1161,7 +1149,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/algorithm/easy/FirstBadVersion_278.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.5266458">
           <caret line="12" column="34" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="34" />
           <folding>
             <element signature="e#259#260#0" expanded="true" />
@@ -1169,6 +1157,14 @@
             <element signature="e#847#848#0" expanded="true" />
             <element signature="e#891#892#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/easy/ZigZagConversion_6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="50" selection-start-line="19" selection-start-column="50" selection-end-line="19" selection-end-column="50" />
+          <folding />
         </state>
       </provider>
     </entry>
