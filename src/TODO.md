@@ -8,20 +8,11 @@ Unique Binary Search Tree II
 Verify Preorder Serialization Of a Binary Tree
 
 --------------
-
-easy:
-unlocked 10
-locked 12
-
-medium:
-total 146
-
-hard:
-total 65
-
+unlocked:
+medium 117
+hard   53
 ----------------
-
 locked:
-easy 12
-medium
-hard
+easy   12
+medium 29
+hard   12
