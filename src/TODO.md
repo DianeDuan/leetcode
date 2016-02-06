@@ -20,6 +20,7 @@ today
 medium:
 Best Time to Buy and Sell Stock with Cooldown
 Gray Code
+Unique Paths
 hard:
 Best Time to Buy and Sell Stock III
 Best Time to Buy and Sell Stock IV
