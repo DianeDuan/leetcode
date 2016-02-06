@@ -11,6 +11,9 @@ package algorithm.hard;
  * Use preProfit array to record the max profit of the first transaction which is completed before or on day i,
  * and use postProfit array to record the max profit of the second transaction which is completed after or on day i.
  * The maximum of all the (preProfit[i] + postProfit[i]) is the maximum profit.
+ * <p/>
+ * Reference:
+ * http://liangjiabin.com/blog/2015/04/leetcode-best-time-to-buy-and-sell-stock.html
  */
 public class BestTimeToBuyAndSellStockIII_123 {
     public int maxProfit(int[] prices) {
