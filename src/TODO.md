@@ -1,7 +1,9 @@
-Remove Duplicates from Sorted Array II
-Contains Duplicate III
 Best Time to Buy and Sell Stock III
 Best Time to Buy and Sell Stock IV
+
+
+Remove Duplicates from Sorted Array II
+Contains Duplicate III
 N-Queens
 N-Queens II
 Unique Binary Search Tree II
@@ -9,7 +11,7 @@ Verify Preorder Serialization Of a Binary Tree
 
 --------------
 unlocked:
-medium 117
+medium 115
 hard   53
 ----------------
 locked:
