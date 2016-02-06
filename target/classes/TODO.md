@@ -22,6 +22,7 @@ Best Time to Buy and Sell Stock with Cooldown
 Gray Code
 Unique Paths
 Swap Nodes in Pair
+Minimum Path Sum
 hard:
 Best Time to Buy and Sell Stock III
 Best Time to Buy and Sell Stock IV
