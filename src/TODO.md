@@ -7,23 +7,11 @@ Verify Preorder Serialization Of a Binary Tree
 
 --------------
 unlocked:
-medium 115
-hard   53
-----------------
+medium 108
+hard   51
+---------------
 locked:
 easy   12
 medium 29
 hard   12
------------------
-today
-
-medium:
-Best Time to Buy and Sell Stock with Cooldown
-Gray Code
-Unique Paths
-Swap Nodes in Pair
-Minimum Path Sum
-Sort Colors
-hard:
-Best Time to Buy and Sell Stock III
-Best Time to Buy and Sell Stock IV
+---------------
