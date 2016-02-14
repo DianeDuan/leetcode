@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6fd48995-ee36-4612-8f4a-564b39bcf140" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/algorithm/medium/CombinationSum_39.java" afterPath="$PROJECT_DIR$/src/algorithm/medium/CombinationSum_39.java" />
-    </list>
+    <list default="true" id="6fd48995-ee36-4612-8f4a-564b39bcf140" name="Default" comment="" />
     <ignored path="leetcode.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -614,12 +612,12 @@
       <workItem from="1454942280956" duration="19000" />
       <workItem from="1455025630557" duration="705000" />
       <workItem from="1455198569171" duration="2554000" />
-      <workItem from="1455417826254" duration="6089000" />
+      <workItem from="1455417826254" duration="6123000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="288863000" />
+    <option name="totallyTimeSpent" value="288897000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1428" y="-9" width="1861" height="1095" extended-state="6" />
