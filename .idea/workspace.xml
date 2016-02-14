@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6fd48995-ee36-4612-8f4a-564b39bcf140" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/medium/CombinationSumII_40.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/medium/CombinationSumII_40.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/medium/CombinationSum_39.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/medium/CombinationSum_39.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/TestMain.class" afterPath="$PROJECT_DIR$/target/classes/TestMain.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="leetcode.iws" />
@@ -34,20 +31,20 @@
         <entry file="file://$PROJECT_DIR$/src/TestMain.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="1" column="44" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="44" />
+              <caret line="0" column="15" selection-start-line="0" selection-start-column="15" selection-end-line="0" selection-end-column="15" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CombinationSumIII_216.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/algorithm/medium/CombinationSumIII_216.java">
+      <file leaf-file-name="SpiralMatrixII_59.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/algorithm/medium/SpiralMatrixII_59.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6558659">
-              <caret line="43" column="21" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
+            <state vertical-scroll-proportion="0.31284916">
+              <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#621#636#0" expanded="true" />
+                <element signature="e#193#194#0" expanded="true" />
+                <element signature="e#220#221#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -74,8 +71,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/algorithm/easy/MergeSortedArray_88.java" />
-        <option value="$PROJECT_DIR$/src/algorithm/easy/ValidSudoku_36.java" />
         <option value="$PROJECT_DIR$/src/algorithm/easy/ReverseBits_190.java" />
         <option value="$PROJECT_DIR$/src/algorithm/easy/ReverseInteger.java" />
         <option value="$PROJECT_DIR$/src/algorithm/easy/ReverseInteger_7.java" />
@@ -124,7 +119,9 @@
         <option value="$PROJECT_DIR$/src/algorithm/medium/CombinationSum_39.java" />
         <option value="$PROJECT_DIR$/src/algorithm/medium/CombinationSumII_40.java" />
         <option value="$PROJECT_DIR$/src/algorithm/medium/CombinationSumIII_216.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/medium/SpiralMatrix_54.java" />
         <option value="$PROJECT_DIR$/src/TestMain.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/medium/SpiralMatrixII_59.java" />
       </list>
     </option>
   </component>
@@ -616,12 +613,12 @@
       <workItem from="1454942280956" duration="19000" />
       <workItem from="1455025630557" duration="705000" />
       <workItem from="1455198569171" duration="2554000" />
-      <workItem from="1455417826254" duration="11627000" />
+      <workItem from="1455417826254" duration="16738000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="294401000" />
+    <option name="totallyTimeSpent" value="299512000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1428" y="-9" width="1861" height="1095" extended-state="6" />
@@ -698,20 +695,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/algorithm/easy/RectangleArea_223.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/easy/LengthOfLastWord_58.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="73" selection-start-line="12" selection-start-column="73" selection-end-line="12" selection-end-column="73" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/algorithm/easy/RemoveNthNodeFromEndOfList_19.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.90726256">
@@ -1063,17 +1046,9 @@
         <state vertical-scroll-proportion="0.40670392">
           <caret line="37" column="0" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#695#710#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#695#710#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TestMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="1" column="44" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="44" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1084,6 +1059,36 @@
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#621#636#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/medium/SpiralMatrix_54.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.87486035">
+          <caret line="48" column="5" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#454#463#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TestMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="15" selection-start-line="0" selection-start-column="15" selection-end-line="0" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/medium/SpiralMatrixII_59.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.31284916">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+          <folding>
+            <element signature="e#193#194#0" expanded="true" />
+            <element signature="e#220#221#0" expanded="true" />
           </folding>
         </state>
       </provider>
