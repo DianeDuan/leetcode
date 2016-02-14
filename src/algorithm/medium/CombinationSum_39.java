@@ -26,7 +26,7 @@ public class CombinationSum_39 {
         return result;
     }
 
-    private int[] removeDuplicates(int[] array) {
+    private int[] removeDuplicates (int[] array) {
         if (array == null || array.length == 0) {
             return new int[0];
         }
