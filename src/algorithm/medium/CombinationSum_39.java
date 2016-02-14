@@ -9,6 +9,7 @@ import java.util.List;
  * https://leetcode.com/problems/combination-sum/
  * <p/>
  * Analysis:
+ * Recursive solution.
  * <p/>
  * Reference:
  * http://www.cnblogs.com/springfor/p/3884294.html
@@ -46,10 +47,10 @@ public class CombinationSum_39 {
     }
 
     private void combine(int[] candidates, int target, int start, List<Integer> current, List<List<Integer>> result) {
-        int currentSum = sum(current);
-        if (currentSum == target) {
+        int sum = sum(current);
+        if (sum == target) {
             result.add(new ArrayList<Integer>(current));
-        } else if (currentSum < target) {
+        } else if (sum < target) {
             for (int i = start; i < candidates.length; i++) {
                 current.add(candidates[i]);
                 combine(candidates, target, i, current, result);
