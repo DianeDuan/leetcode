@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6fd48995-ee36-4612-8f4a-564b39bcf140" name="Default" comment="" />
+    <list default="true" id="6fd48995-ee36-4612-8f4a-564b39bcf140" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/algorithm/medium/CombinationSum_39.java" afterPath="$PROJECT_DIR$/src/algorithm/medium/CombinationSum_39.java" />
+    </list>
     <ignored path="leetcode.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -39,11 +41,11 @@
         <entry file="file://$PROJECT_DIR$/src/algorithm/medium/CombinationSum_39.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.21787709">
-              <caret line="28" column="35" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="35" />
+              <caret line="28" column="34" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#650#665#0" expanded="true" />
-                <element signature="e#957#966#0" expanded="true" />
+                <element signature="e#956#965#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -612,12 +614,12 @@
       <workItem from="1454942280956" duration="19000" />
       <workItem from="1455025630557" duration="705000" />
       <workItem from="1455198569171" duration="2554000" />
-      <workItem from="1455417826254" duration="6123000" />
+      <workItem from="1455417826254" duration="6415000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="288897000" />
+    <option name="totallyTimeSpent" value="289189000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1428" y="-9" width="1861" height="1095" extended-state="6" />
@@ -1067,11 +1069,11 @@
     <entry file="file://$PROJECT_DIR$/src/algorithm/medium/CombinationSum_39.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.21787709">
-          <caret line="28" column="35" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="35" />
+          <caret line="28" column="34" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#650#665#0" expanded="true" />
-            <element signature="e#957#966#0" expanded="true" />
+            <element signature="e#956#965#0" expanded="true" />
           </folding>
         </state>
       </provider>
