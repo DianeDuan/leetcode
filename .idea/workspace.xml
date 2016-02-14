@@ -2,121 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6fd48995-ee36-4612-8f4a-564b39bcf140" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/AddBinary_67.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/AddBinary_67.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/AddDigits_258.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/AddDigits_258.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/BalancedBinaryTree_110.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/BalancedBinaryTree_110.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/hard/BestTimeToBuyAndSellStockIII_123.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/hard/BestTimeToBuyAndSellStockIII_123.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/medium/BestTimeToBuyAndSellStockII_122.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/medium/BestTimeToBuyAndSellStockII_122.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/hard/BestTimeToBuyAndSellStockIV_188.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/hard/BestTimeToBuyAndSellStockIV_188.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/medium/BestTimeToBuyAndSellStockWithCooldown_309.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/medium/BestTimeToBuyAndSellStockWithCooldown_309.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/medium/BestTimeToBuyAndSellStock_121.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/medium/BestTimeToBuyAndSellStock_121.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/medium/BinaryTreeInorderTraversal_94.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/medium/BinaryTreeInorderTraversal_94.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/BinaryTreeLevelOrderTraversal_102.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/BinaryTreeLevelOrderTraversal_102.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/BinaryTreeLevelOrderTraversal_107.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/BinaryTreeLevelOrderTraversal_107.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/BinaryTreePaths_257.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/BinaryTreePaths_257.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/medium/BinaryTreePreorderTraversal_144.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/medium/BinaryTreePreorderTraversal_144.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/medium/BulbSwitcher_319.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/medium/BulbSwitcher_319.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/BullsAndCows_299.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/BullsAndCows_299.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/ClimbingStairs_70.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/ClimbingStairs_70.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/CompareVersion_165.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/CompareVersion_165.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/medium/ContainsDuplicateIII_220.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/medium/ContainsDuplicateIII_220.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/ContainsDuplicateII_219.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/ContainsDuplicateII_219.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/ContainsDuplicate_217.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/ContainsDuplicate_217.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/medium/ConvertSortedArrayToBinarySearchTree_108.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/medium/ConvertSortedArrayToBinarySearchTree_108.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/CountAndSay_38.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/CountAndSay_38.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/CountPrimes_204.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/CountPrimes_204.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/DeleteNodeInALinkedList_237.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/DeleteNodeInALinkedList_237.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/ExcelSheetColumnNumber_171.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/ExcelSheetColumnNumber_171.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/ExcelSheetColumnTitle_168.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/ExcelSheetColumnTitle_168.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/FactorialTrailingZeroes_172.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/FactorialTrailingZeroes_172.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/medium/FindMinimum_153.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/medium/FindMinimum_153.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/medium/FindPeakElement_162.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/medium/FindPeakElement_162.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/hard/FindTheDuplicateNumber_287.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/hard/FindTheDuplicateNumber_287.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/FirstBadVersion_278.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/FirstBadVersion_278.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/medium/GenerateParentheses_22.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/medium/GenerateParentheses_22.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/medium/GrayCode_89.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/medium/GrayCode_89.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/HappyNumber_202.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/HappyNumber_202.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/HouseRobber_198.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/HouseRobber_198.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/ImplementQueueUsingStacks_232.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/ImplementQueueUsingStacks_232.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/ImplementStackUsingQueues_225.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/ImplementStackUsingQueues_225.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/ImplementStrStr_28.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/ImplementStrStr_28.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/medium/IntegerToRoman_12.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/medium/IntegerToRoman_12.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/IntersectionOfTwoLinkedLists_160.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/IntersectionOfTwoLinkedLists_160.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/InvertBinaryTree_226.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/InvertBinaryTree_226.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/IsomorphicStrings_205.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/IsomorphicStrings_205.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/medium/KthLargestElementInAnArray_215.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/medium/KthLargestElementInAnArray_215.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/medium/KthSmallestElementInABST_230.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/medium/KthSmallestElementInABST_230.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/LengthOfLastWord_58.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/LengthOfLastWord_58.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/medium/LinkedListCycle_141.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/medium/LinkedListCycle_141.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/vo/ListNode.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/vo/ListNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/LongestCommonPrefix_14.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/LongestCommonPrefix_14.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/LowestCommonAncestorOfABinarySearchTree_235.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/LowestCommonAncestorOfABinarySearchTree_235.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/medium/MajorityElementII_229.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/medium/MajorityElementII_229.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/MajorityElement_169.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/MajorityElement_169.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/MaximumDepthOfBinaryTree_104.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/MaximumDepthOfBinaryTree_104.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/medium/MaximumProductOfWordLengths_318.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/medium/MaximumProductOfWordLengths_318.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/medium/MaximumSubarray_53.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/medium/MaximumSubarray_53.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/MergeSortedArray_88.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/MergeSortedArray_88.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/MergeTwoSortedLists_21.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/MergeTwoSortedLists_21.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/MinStack_155.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/MinStack_155.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/MinimumDepthOfBinaryTree_111.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/MinimumDepthOfBinaryTree_111.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/medium/MinimumPathSum_64.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/medium/MinimumPathSum_64.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/medium/MissingNumber_268.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/medium/MissingNumber_268.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/MoveZeroes_283.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/MoveZeroes_283.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/hard/NQueenII_52.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/hard/NQueenII_52.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/hard/NQueens_51.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/hard/NQueens_51.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/NimName_292.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/NimName_292.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/NumberOf1Bits_191.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/NumberOf1Bits_191.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/OddEvenLinkedList_328.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/OddEvenLinkedList_328.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/PalindromeLinkedList_234.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/PalindromeLinkedList_234.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/PalindromeNumber_9.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/PalindromeNumber_9.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/PascalTriangleII_119.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/PascalTriangleII_119.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/PascalTriangle_118.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/PascalTriangle_118.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/PathSum_112.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/PathSum_112.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/PlusOne_66.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/PlusOne_66.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/medium/PopulatingNextRightPointersInEachNode_116.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/medium/PopulatingNextRightPointersInEachNode_116.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/PowerOfThree_326.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/PowerOfThree_326.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/PowerOfTwo_231.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/PowerOfTwo_231.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/medium/ProductOfArrayExceptSelf_238.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/medium/ProductOfArrayExceptSelf_238.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/RangeSumQuery_303.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/RangeSumQuery_303.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/RectangleArea_223.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/RectangleArea_223.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/RemoveDuplicatesFromSortedArray_26.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/RemoveDuplicatesFromSortedArray_26.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/RemoveDuplicatesFromSortedList_83.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/RemoveDuplicatesFromSortedList_83.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/RemoveElement_27.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/RemoveElement_27.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/RemoveLinkedListElements_203.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/RemoveLinkedListElements_203.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/RemoveNthNodeFromEndOfList_19.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/RemoveNthNodeFromEndOfList_19.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/ReverseBits_190.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/ReverseBits_190.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/ReverseInteger_7.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/ReverseInteger_7.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/ReverseLinkedList_206.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/ReverseLinkedList_206.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/RomanToInteger_13.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/RomanToInteger_13.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/RotateArray_189.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/RotateArray_189.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/SameTree_100.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/SameTree_100.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/medium/SearchA2DMatrix_74.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/medium/SearchA2DMatrix_74.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/medium/SearchInsertPosition_35.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/medium/SearchInsertPosition_35.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/medium/SetMatrixZeroes_73.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/medium/SetMatrixZeroes_73.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/medium/SingleNumberIII_260.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/medium/SingleNumberIII_260.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/medium/SingleNumberII_137.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/medium/SingleNumberII_137.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/medium/SingleNumber_136.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/medium/SingleNumber_136.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/medium/SortColors_75.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/medium/SortColors_75.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/StringToInteger_8.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/StringToInteger_8.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/SummaryRanges_228.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/SummaryRanges_228.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/medium/SwapNodesInPairs_24.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/medium/SwapNodesInPairs_24.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/SymmetricTree_101.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/SymmetricTree_101.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/TestMain.class" afterPath="$PROJECT_DIR$/target/classes/TestMain.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/vo/TreeLinkNode.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/vo/TreeLinkNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/vo/TreeNode.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/vo/TreeNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/UglyNumber_263.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/UglyNumber_263.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/medium/UniqueBinarySearchTreeII_95.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/medium/UniqueBinarySearchTreeII_95.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/medium/UniqueBinarySearchTree_96.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/medium/UniqueBinarySearchTree_96.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/medium/UniquePaths_62.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/medium/UniquePaths_62.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/ValidAnagram_242.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/ValidAnagram_242.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/ValidPalindrome_125.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/ValidPalindrome_125.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/ValidParentheses_20.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/ValidParentheses_20.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/ValidSudoku_36.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/ValidSudoku_36.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/medium/VerifyPreorderSerializationOfABinaryTree_331.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/medium/VerifyPreorderSerializationOfABinaryTree_331.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/WordPattern_290.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/WordPattern_290.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/ZigZagConversion_6.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/ZigZagConversion_6.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/TODO.md" afterPath="$PROJECT_DIR$/target/classes/TODO.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="leetcode.iws" />
@@ -152,14 +37,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Permutations_46.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/algorithm/medium/Permutations_46.java">
+      <file leaf-file-name="CombinationSum_39.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/algorithm/medium/CombinationSum_39.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.78100556">
-              <caret line="41" column="1" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
+            <state vertical-scroll-proportion="0.87486035">
+              <caret line="70" column="5" selection-start-line="70" selection-start-column="5" selection-end-line="70" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#770#785#0" expanded="true" />
+                <element signature="e#650#665#0" expanded="true" />
+                <element signature="e#956#965#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -186,7 +72,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/algorithm/easy/PathSum_112.java" />
         <option value="$PROJECT_DIR$/src/algorithm/easy/PalindromeNumber_9.java" />
         <option value="$PROJECT_DIR$/src/algorithm/easy/MinimumDepthOfBinaryTree_111.java" />
         <option value="$PROJECT_DIR$/src/algorithm/easy/IntersectionOfTwoLinkedLists_160.java" />
@@ -236,6 +121,7 @@
         <option value="$PROJECT_DIR$/src/algorithm/medium/KthLargestElementInAnArray_215.java" />
         <option value="$PROJECT_DIR$/src/TODO.md" />
         <option value="$PROJECT_DIR$/src/algorithm/medium/Permutations_46.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/medium/CombinationSum_39.java" />
         <option value="$PROJECT_DIR$/src/TestMain.java" />
       </list>
     </option>
@@ -728,12 +614,12 @@
       <workItem from="1454942280956" duration="19000" />
       <workItem from="1455025630557" duration="705000" />
       <workItem from="1455198569171" duration="2554000" />
-      <workItem from="1455417826254" duration="1862000" />
+      <workItem from="1455417826254" duration="5870000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="284636000" />
+    <option name="totallyTimeSpent" value="288644000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1428" y="-9" width="1861" height="1095" extended-state="6" />
@@ -757,7 +643,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32963988" sideWeight="0.49391305" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2592798" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32254586" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.20927724" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32963988" sideWeight="0.50608695" order="7" side_tool="true" content_ui="tabs" />
@@ -810,42 +696,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/TestMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/medium/SearchA2DMatrix_74.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/easy/MergeSortedArray_88.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.40670392">
-          <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/easy/ValidSudoku_36.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="2.627933">
-          <caret line="84" column="5" selection-start-line="84" selection-start-column="5" selection-end-line="84" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/easy/RemoveElement_27.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.43798882">
-          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/algorithm/easy/ReverseBits_190.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1162,6 +1012,52 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/medium/Permutations_46.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.12402235">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#770#785#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/JDK/jdk1.7.0_40/src.zip!/java/util/AbstractList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="522" column="46" selection-start-line="522" selection-start-column="46" selection-end-line="522" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/JDK/jdk1.7.0_40/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="148" column="19" selection-start-line="148" selection-start-column="19" selection-end-line="148" selection-end-column="19" />
+          <folding>
+            <element signature="e#5860#5861#0" expanded="false" />
+            <element signature="e#5896#5897#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/JDK/jdk1.7.0_40/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33233532">
+          <caret line="762" column="25" selection-start-line="762" selection-start-column="19" selection-end-line="762" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/JDK/jdk1.7.0_40/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.32402235">
+          <caret line="171" column="64" selection-start-line="171" selection-start-column="57" selection-end-line="171" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/TestMain.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1170,13 +1066,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/medium/Permutations_46.java">
+    <entry file="file://$PROJECT_DIR$/src/algorithm/medium/CombinationSum_39.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.78100556">
-          <caret line="41" column="1" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
+        <state vertical-scroll-proportion="0.87486035">
+          <caret line="70" column="5" selection-start-line="70" selection-start-column="5" selection-end-line="70" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#770#785#0" expanded="true" />
+            <element signature="e#650#665#0" expanded="true" />
+            <element signature="e#956#965#0" expanded="true" />
           </folding>
         </state>
       </provider>
