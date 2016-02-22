@@ -10,6 +10,8 @@ import java.util.List;
  * https://leetcode.com/problems/binary-tree-right-side-view/
  * <p/>
  * Analysis:
+ * The result is composed of the elements,
+ * which are the rightmost ones of every layer of the tree.
  */
 public class BinaryTreeRightSideView_199 {
     public List<Integer> rightSideView(TreeNode root) {
