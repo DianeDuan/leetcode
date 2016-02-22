@@ -1,4 +1,3 @@
-Remove Duplicates from Sorted Array II
 Contains Duplicate III
 N-Queens
 N-Queens II
