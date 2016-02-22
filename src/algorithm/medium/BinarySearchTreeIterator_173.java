@@ -9,6 +9,8 @@ import java.util.Stack;
  * https://leetcode.com/problems/binary-search-tree-iterator/
  * <p/>
  * Analysis:
+ * Use a stack to record elements,
+ * keep the top of stack is current smallest elements.
  */
 public class BinarySearchTreeIterator_173 {
     Stack<TreeNode> stack = new Stack<TreeNode>();

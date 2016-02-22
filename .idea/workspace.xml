@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6fd48995-ee36-4612-8f4a-564b39bcf140" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TestMain.java" afterPath="$PROJECT_DIR$/src/TestMain.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/algorithm/medium/BinarySearchTreeIterator_173.java" afterPath="$PROJECT_DIR$/src/algorithm/medium/BinarySearchTreeIterator_173.java" />
     </list>
     <ignored path="leetcode.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -31,22 +31,21 @@
         <entry file="file://$PROJECT_DIR$/src/TestMain.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="1" column="44" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="44" />
+              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BinarySearchTreeIterator_173.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/algorithm/medium/BinarySearchTreeIterator_173.java">
+      <file leaf-file-name="BinaryTreeRightSideView_199.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/algorithm/medium/BinaryTreeRightSideView_199.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.45147058">
-              <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+            <state vertical-scroll-proportion="0.2867647">
+              <caret line="30" column="28" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#267#277#0" expanded="true" />
-                <element signature="e#591#592#0" expanded="true" />
-                <element signature="e#630#631#0" expanded="true" />
+                <element signature="e#440#450#0" expanded="true" />
+                <element signature="e#523#532#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -73,7 +72,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/algorithm/easy/BinaryTreePaths_257.java" />
         <option value="$PROJECT_DIR$/src/algorithm/easy/PalindromeLinkedList_234.java" />
         <option value="$PROJECT_DIR$/src/algorithm/easy/AddBinary_67.java" />
         <option value="$PROJECT_DIR$/src/algorithm/easy/RangeSumQuery_303.java" />
@@ -124,6 +122,7 @@
         <option value="$PROJECT_DIR$/src/TODO.md" />
         <option value="$PROJECT_DIR$/src/TestMain.java" />
         <option value="$PROJECT_DIR$/src/algorithm/medium/BinarySearchTreeIterator_173.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/medium/BinaryTreeRightSideView_199.java" />
       </list>
     </option>
   </component>
@@ -625,12 +624,12 @@
       <workItem from="1455676440547" duration="94000" />
       <workItem from="1455756490912" duration="3772000" />
       <workItem from="1455848783387" duration="7658000" />
-      <workItem from="1456106971349" duration="2335000" />
+      <workItem from="1456106971349" duration="4440000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="347299000" />
+    <option name="totallyTimeSpent" value="349404000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1431" y="24" width="1855" height="1056" extended-state="6" />
@@ -705,13 +704,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/algorithm/easy/CountPrimes_204.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.28044692">
-          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/algorithm/easy/CompareVersion_165.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.24916202">
@@ -1083,23 +1075,35 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/medium/BinarySearchTreeIterator_173.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34301677">
+          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#357#367#0" expanded="true" />
+            <element signature="e#681#682#0" expanded="true" />
+            <element signature="e#720#721#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/TestMain.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="1" column="44" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="44" />
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/medium/BinarySearchTreeIterator_173.java">
+    <entry file="file://$PROJECT_DIR$/src/algorithm/medium/BinaryTreeRightSideView_199.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.45147058">
-          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+        <state vertical-scroll-proportion="0.2867647">
+          <caret line="30" column="28" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#267#277#0" expanded="true" />
-            <element signature="e#591#592#0" expanded="true" />
-            <element signature="e#630#631#0" expanded="true" />
+            <element signature="e#440#450#0" expanded="true" />
+            <element signature="e#523#532#0" expanded="true" />
           </folding>
         </state>
       </provider>
