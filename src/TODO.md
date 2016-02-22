@@ -7,7 +7,7 @@ Verify Preorder Serialization Of a Binary Tree
 --------------
 
 unlocked:
-medium 89
+medium 85
 hard   51
 
 ---------------
