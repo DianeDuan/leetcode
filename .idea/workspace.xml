@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6fd48995-ee36-4612-8f4a-564b39bcf140" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TODO.md" afterPath="$PROJECT_DIR$/src/TODO.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/TODO.md" afterPath="$PROJECT_DIR$/target/classes/TODO.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="leetcode.iws" />
@@ -39,14 +37,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SubsetsII_90.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/algorithm/medium/SubsetsII_90.java">
+      <file leaf-file-name="ConvertSortedListToBinarySearchTree_109.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/algorithm/medium/ConvertSortedListToBinarySearchTree_109.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.7497207">
-              <caret line="42" column="5" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
+              <caret line="77" column="5" selection-start-line="77" selection-start-column="5" selection-end-line="77" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#538#553#0" expanded="true" />
+                <element signature="e#472#473#0" expanded="true" />
+                <element signature="e#522#523#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -73,7 +72,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/algorithm/easy/MinStack155.java" />
         <option value="$PROJECT_DIR$/src/algorithm/easy/MinStack_155.java" />
         <option value="$PROJECT_DIR$/src/algorithm/easy/ValidPalindrome_125.java" />
         <option value="$PROJECT_DIR$/src/algorithm/easy/FirstBadVersion_278.java" />
@@ -122,8 +120,9 @@
         <option value="$PROJECT_DIR$/src/algorithm/medium/Pow_50.java" />
         <option value="$PROJECT_DIR$/src/algorithm/medium/HouseRobberII_213.java" />
         <option value="$PROJECT_DIR$/src/algorithm/medium/SubsetsII_90.java" />
-        <option value="$PROJECT_DIR$/src/TestMain.java" />
         <option value="$PROJECT_DIR$/src/TODO.md" />
+        <option value="$PROJECT_DIR$/src/algorithm/medium/ConvertSortedListToBinarySearchTree_109.java" />
+        <option value="$PROJECT_DIR$/src/TestMain.java" />
       </list>
     </option>
   </component>
@@ -174,8 +173,8 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -250,7 +249,7 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -627,12 +626,13 @@
       <workItem from="1455848783387" duration="7658000" />
       <workItem from="1456106971349" duration="13205000" />
       <workItem from="1456188973265" duration="14061000" />
-      <workItem from="1456364139396" duration="4422000" />
+      <workItem from="1456364139396" duration="4481000" />
+      <workItem from="1456450294095" duration="6983000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="376652000" />
+    <option name="totallyTimeSpent" value="383694000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1431" y="24" width="1855" height="1056" extended-state="6" />
@@ -646,7 +646,7 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32901832" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2498615" sideWeight="0.49391305" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.51348436" sideWeight="0.49806094" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4811219" sideWeight="0.49806094" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32901832" sideWeight="0.50193906" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.80798274" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -692,13 +692,12 @@
           <option name="timeStamp" value="123" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="183" />
+      <option name="time" value="198" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
-        <watch expression="board[i][j]" language="JAVA" custom="" />
-        <watch expression="count" language="JAVA" custom="" />
-        <watch expression="isNextGenAlive" language="JAVA" custom="" />
+        <watch expression="root.val" language="JAVA" custom="" />
+        <watch expression="current.val" language="JAVA" custom="" />
       </configuration>
     </watches-manager>
   </component>
@@ -707,13 +706,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/algorithm/medium/GenerateParentheses_22.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/algorithm/medium/FindMinimum_153.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.12402235">
@@ -1091,19 +1083,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/TestMain.java">
+    <entry file="file://$PROJECT_DIR$/src/algorithm/medium/SubsetsII_90.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="1" column="44" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="44" />
-          <folding />
+        <state vertical-scroll-proportion="0.7497207">
+          <caret line="42" column="5" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#538#553#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/TODO.md">
       <provider editor-type-id="MultiMarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider editor-type-id="MultiMarkdownHtmlEditor">
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
@@ -1112,14 +1104,26 @@
           <folding />
         </state>
       </provider>
+      <provider editor-type-id="MultiMarkdownHtmlEditor">
+        <state />
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/medium/SubsetsII_90.java">
+    <entry file="file://$PROJECT_DIR$/src/TestMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="44" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/medium/ConvertSortedListToBinarySearchTree_109.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.7497207">
-          <caret line="42" column="5" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
+          <caret line="77" column="5" selection-start-line="77" selection-start-column="5" selection-end-line="77" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#538#553#0" expanded="true" />
+            <element signature="e#472#473#0" expanded="true" />
+            <element signature="e#522#523#0" expanded="true" />
           </folding>
         </state>
       </provider>
