@@ -27,26 +27,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="TestMain.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="TestMain.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/TestMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
+            <state vertical-scroll-proportion="0.031284917">
               <caret line="1" column="44" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="44" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ConvertSortedListToBinarySearchTree_109.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/algorithm/medium/ConvertSortedListToBinarySearchTree_109.java">
+      <file leaf-file-name="WordBreak_139.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/algorithm/medium/WordBreak_139.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7497207">
-              <caret line="77" column="5" selection-start-line="77" selection-start-column="5" selection-end-line="77" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#472#473#0" expanded="true" />
-                <element signature="e#522#523#0" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="0.0">
+              <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -72,7 +68,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/algorithm/easy/MinStack_155.java" />
         <option value="$PROJECT_DIR$/src/algorithm/easy/ValidPalindrome_125.java" />
         <option value="$PROJECT_DIR$/src/algorithm/easy/FirstBadVersion_278.java" />
         <option value="$PROJECT_DIR$/src/algorithm/easy/ZigZagConversion_6.java" />
@@ -122,6 +117,7 @@
         <option value="$PROJECT_DIR$/src/algorithm/medium/SubsetsII_90.java" />
         <option value="$PROJECT_DIR$/src/TODO.md" />
         <option value="$PROJECT_DIR$/src/algorithm/medium/ConvertSortedListToBinarySearchTree_109.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/medium/WordBreak_139.java" />
         <option value="$PROJECT_DIR$/src/TestMain.java" />
       </list>
     </option>
@@ -627,12 +623,12 @@
       <workItem from="1456106971349" duration="13205000" />
       <workItem from="1456188973265" duration="14061000" />
       <workItem from="1456364139396" duration="4481000" />
-      <workItem from="1456450294095" duration="6983000" />
+      <workItem from="1456450294095" duration="14058000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="383694000" />
+    <option name="totallyTimeSpent" value="390769000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1431" y="24" width="1855" height="1056" extended-state="6" />
@@ -692,12 +688,12 @@
           <option name="timeStamp" value="123" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="198" />
+      <option name="time" value="201" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
-        <watch expression="root.val" language="JAVA" custom="" />
-        <watch expression="current.val" language="JAVA" custom="" />
+        <watch expression="k+1" language="JAVA" custom="" />
+        <watch expression="i-k" language="JAVA" custom="" />
       </configuration>
     </watches-manager>
   </component>
@@ -706,13 +702,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/algorithm/medium/FindMinimum_153.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.12402235">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/algorithm/medium/BestTimeToBuyAndSellStockWithCooldown_309.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1053,8 +1042,8 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="34" column="5" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#458#468#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#458#468#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1088,8 +1077,8 @@
         <state vertical-scroll-proportion="0.7497207">
           <caret line="42" column="5" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#538#553#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#538#553#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1108,14 +1097,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/TestMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="1" column="44" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/algorithm/medium/ConvertSortedListToBinarySearchTree_109.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.7497207">
@@ -1125,6 +1106,22 @@
             <element signature="e#472#473#0" expanded="true" />
             <element signature="e#522#523#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/medium/WordBreak_139.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TestMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.031284917">
+          <caret line="1" column="44" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="44" />
+          <folding />
         </state>
       </provider>
     </entry>
