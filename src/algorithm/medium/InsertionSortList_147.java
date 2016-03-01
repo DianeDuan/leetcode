@@ -7,6 +7,9 @@ import algorithm.vo.ListNode;
  * https://leetcode.com/problems/insertion-sort-list/
  * <p/>
  * Analysis:
+ * Insertion sort.
+ * Use a dummy head as the head of sorted list,
+ * Traverse the linked list to insert every node into the sorted list.
  */
 public class InsertionSortList_147 {
     public ListNode insertionSortList(ListNode head) {
@@ -19,11 +22,14 @@ public class InsertionSortList_147 {
         while (current != null) {
             ListNode tmp = dummyHead;
             ListNode next = current.next;
+            //find the insertion position
             while (tmp.next != null && tmp.next.val <= current.val) {
                 tmp = tmp.next;
             }
+            //insert
             current.next = tmp.next;
             tmp.next = current;
+            //move to next node in the unsorted list
             current = next;
         }
         return dummyHead.next;
