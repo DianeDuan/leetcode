@@ -30,7 +30,7 @@ public class BurstBalloons_312 {
             for (int left = 0; left < dummyLength - currentLength; left++) {
                 int right = left + currentLength;
                 for (int lastBurstPos = left + 1; lastBurstPos < right; lastBurstPos++) {
-                    //If all of the balloons between left and right is burst and the last burst one's index is lastBurstPos,
+                    //If all of the balloons between left and right is burst and the index of the last burst one is lastBurstPos,
                     //it divides the balloons into two parts, from left to lastBurstPos and from lastBurstPos to right,
                     //and the count of coins from the last balloon's burst is (dummyNums[left] * dummyNums[lastBurstPos] * dummyNums[right]),
                     //because when the last balloon is burst, its' left neighbor and right neighbor is dummyNums[left] and dummyNums[right].
