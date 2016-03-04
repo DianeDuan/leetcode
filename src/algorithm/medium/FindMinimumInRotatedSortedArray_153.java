@@ -7,7 +7,7 @@ package algorithm.medium;
  * Analysis:
  * Binary search.
  */
-public class FindMinimum_153 {
+public class FindMinimumInRotatedSortedArray_153 {
     public int findMin(int[] nums) {
         if (nums == null || nums.length == 0) {
             return -1;
