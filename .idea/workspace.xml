@@ -2,6 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6fd48995-ee36-4612-8f4a-564b39bcf140" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/TODO.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/algorithm/hard/NQueenII_52.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/algorithm/hard/NQueens_51.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/algorithm/medium/ContainsDuplicateIII_220.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/algorithm/medium/UniqueBinarySearchTreeII_95.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/algorithm/medium/VerifyPreorderSerializationOfABinaryTree_331.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/TODO.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/algorithm/hard/NQueenII_52.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/algorithm/hard/NQueens_51.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/algorithm/medium/ContainsDuplicateIII_220.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/algorithm/medium/UniqueBinarySearchTreeII_95.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/algorithm/medium/VerifyPreorderSerializationOfABinaryTree_331.class" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="leetcode.iws" />
@@ -37,12 +49,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Candy_135.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/algorithm/hard/Candy_135.java">
+      <file leaf-file-name="PathSumII_113.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/algorithm/medium/PathSumII_113.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.68715084">
-              <caret line="46" column="38" selection-start-line="46" selection-start-column="38" selection-end-line="46" selection-end-column="38" />
-              <folding />
+            <state vertical-scroll-proportion="0.9061453">
+              <caret line="52" column="1" selection-start-line="52" selection-start-column="1" selection-end-line="52" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#348#349#0" expanded="true" />
+                <element signature="e#416#417#0" expanded="true" />
+                <element signature="e#680#695#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -68,8 +85,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/algorithm/medium/KthLargestElementInAnArray_215.java" />
-        <option value="$PROJECT_DIR$/src/algorithm/medium/Permutations_46.java" />
         <option value="$PROJECT_DIR$/src/algorithm/medium/CombinationSum_40.java" />
         <option value="$PROJECT_DIR$/src/algorithm/medium/CombinationSum_39.java" />
         <option value="$PROJECT_DIR$/src/algorithm/medium/CombinationSumII_40.java" />
@@ -108,7 +123,6 @@
         <option value="$PROJECT_DIR$/src/algorithm/hard/BurstBalloons_312.java" />
         <option value="$PROJECT_DIR$/src/algorithm/hard/BinaryTreePostorderTraversal_145.java" />
         <option value="$PROJECT_DIR$/src/algorithm/medium/JumpGame_55.java" />
-        <option value="$PROJECT_DIR$/src/TODO.md" />
         <option value="$PROJECT_DIR$/src/algorithm/hard/ValidNumber_65.java" />
         <option value="$PROJECT_DIR$/src/algorithm/medium/ReverseLinkedListII_92.java" />
         <option value="$PROJECT_DIR$/src/algorithm/medium/GasStation_134.java" />
@@ -117,8 +131,11 @@
         <option value="$PROJECT_DIR$/src/algorithm/medium/PeekingIterator_284.java" />
         <option value="$PROJECT_DIR$/src/algorithm/hard/TrappingRainWater_42.java" />
         <option value="$PROJECT_DIR$/src/algorithm/hard/Candy.java" />
-        <option value="$PROJECT_DIR$/src/TestMain.java" />
         <option value="$PROJECT_DIR$/src/algorithm/hard/Candy_135.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/medium/BasicCalculator.java" />
+        <option value="$PROJECT_DIR$/src/TODO.md" />
+        <option value="$PROJECT_DIR$/src/TestMain.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/medium/PathSumII_113.java" />
       </list>
     </option>
   </component>
@@ -239,28 +256,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="medium" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="leetcode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="leetcode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="algorithm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hard" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -650,12 +645,12 @@
       <workItem from="1456792067208" duration="11304000" />
       <workItem from="1456878092361" duration="15066000" />
       <workItem from="1456968904322" duration="20326000" />
-      <workItem from="1457051502191" duration="9767000" />
+      <workItem from="1457051502191" duration="13718000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="450955000" />
+    <option name="totallyTimeSpent" value="454906000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1431" y="24" width="1855" height="1056" extended-state="6" />
@@ -669,7 +664,7 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32901832" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2498615" sideWeight="0.49391305" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5188781" sideWeight="0.49806094" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5070119" sideWeight="0.49806094" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32901832" sideWeight="0.50193906" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.80798274" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -715,34 +710,19 @@
           <option name="timeStamp" value="123" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="241" />
+      <option name="time" value="244" />
     </breakpoint-manager>
-    <watches-manager />
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="current" language="JAVA" custom="" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/algorithm/medium/RotateImage_48.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7497207">
-          <caret line="61" column="5" selection-start-line="61" selection-start-column="5" selection-end-line="61" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/medium/Combinations_77.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.18659218">
-          <caret line="17" column="50" selection-start-line="17" selection-start-column="50" selection-end-line="17" selection-end-column="50" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#730#745#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/JDK/jdk1.7.0_40/src.zip!/java/util/Arrays.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.7699115">
@@ -1040,6 +1020,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.3329609">
           <caret line="162" column="46" selection-start-line="162" selection-start-column="46" selection-end-line="162" selection-end-column="46" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1061,19 +1042,6 @@
           <caret line="29" column="25" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
           <folding />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TODO.md">
-      <provider editor-type-id="MultiMarkdownHtmlEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.12993039">
-          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
-        </state>
-      </provider>
-      <provider editor-type-id="MultiMarkdownPreviewEditor">
-        <state />
       </provider>
     </entry>
     <entry file="jar://$USER_HOME$/JDK/jdk1.7.0_40/src.zip!/java/lang/String.java">
@@ -1156,6 +1124,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/hard/Candy_135.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.68715084">
+          <caret line="46" column="38" selection-start-line="46" selection-start-column="38" selection-end-line="46" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/easy/PathSum_112.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.43798882">
+          <caret line="16" column="59" selection-start-line="16" selection-start-column="59" selection-end-line="16" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/TestMain.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1164,11 +1148,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/hard/Candy_135.java">
+    <entry file="file://$PROJECT_DIR$/src/algorithm/medium/PathSumII_113.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.68715084">
-          <caret line="46" column="38" selection-start-line="46" selection-start-column="38" selection-end-line="46" selection-end-column="38" />
-          <folding />
+        <state vertical-scroll-proportion="0.9061453">
+          <caret line="52" column="1" selection-start-line="52" selection-start-column="1" selection-end-line="52" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#348#349#0" expanded="true" />
+            <element signature="e#416#417#0" expanded="true" />
+            <element signature="e#680#695#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
