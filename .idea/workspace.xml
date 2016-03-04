@@ -37,11 +37,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TrappingRainWater_42.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/algorithm/hard/TrappingRainWater_42.java">
+      <file leaf-file-name="Candy_135.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/algorithm/hard/Candy_135.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.87597764">
-              <caret line="49" column="5" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
+            <state vertical-scroll-proportion="0.68715084">
+              <caret line="46" column="38" selection-start-line="46" selection-start-column="38" selection-end-line="46" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -68,8 +68,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/algorithm/medium/SetMatrixZeroes_73.java" />
-        <option value="$PROJECT_DIR$/src/algorithm/medium/FindPeakElement_162.java" />
         <option value="$PROJECT_DIR$/src/algorithm/medium/KthLargestElementInAnArray_215.java" />
         <option value="$PROJECT_DIR$/src/algorithm/medium/Permutations_46.java" />
         <option value="$PROJECT_DIR$/src/algorithm/medium/CombinationSum_40.java" />
@@ -118,7 +116,9 @@
         <option value="$PROJECT_DIR$/src/algorithm/medium/FindMinimumInRotatedSortedArray_153.java" />
         <option value="$PROJECT_DIR$/src/algorithm/medium/PeekingIterator_284.java" />
         <option value="$PROJECT_DIR$/src/algorithm/hard/TrappingRainWater_42.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/hard/Candy.java" />
         <option value="$PROJECT_DIR$/src/TestMain.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/hard/Candy_135.java" />
       </list>
     </option>
   </component>
@@ -650,12 +650,12 @@
       <workItem from="1456792067208" duration="11304000" />
       <workItem from="1456878092361" duration="15066000" />
       <workItem from="1456968904322" duration="20326000" />
-      <workItem from="1457051502191" duration="8107000" />
+      <workItem from="1457051502191" duration="9767000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="449295000" />
+    <option name="totallyTimeSpent" value="450955000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1431" y="24" width="1855" height="1056" extended-state="6" />
@@ -715,7 +715,7 @@
           <option name="timeStamp" value="123" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="240" />
+      <option name="time" value="241" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -724,14 +724,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/algorithm/medium/ContainerWithMostWater_11.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7497207">
-          <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/algorithm/medium/RotateImage_48.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.7497207">
@@ -1156,6 +1148,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/hard/TrappingRainWater_42.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.87597764">
+          <caret line="49" column="5" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/TestMain.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1164,10 +1164,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/hard/TrappingRainWater_42.java">
+    <entry file="file://$PROJECT_DIR$/src/algorithm/hard/Candy_135.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.87597764">
-          <caret line="49" column="5" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
+        <state vertical-scroll-proportion="0.68715084">
+          <caret line="46" column="38" selection-start-line="46" selection-start-column="38" selection-end-line="46" selection-end-column="38" />
           <folding />
         </state>
       </provider>
