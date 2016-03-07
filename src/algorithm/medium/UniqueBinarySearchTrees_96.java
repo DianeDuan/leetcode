@@ -15,7 +15,7 @@ package algorithm.medium;
  * http://fisherlei.blogspot.com/2013/03/leetcode-unique-binary-search-trees.html
  * https://siddontang.gitbooks.io/leetcode-solution/content/dynamic_programming/unique_binary_search_trees.html
  */
-public class UniqueBinarySearchTree_96 {
+public class UniqueBinarySearchTrees_96 {
     public int numTrees(int n) {
         if (n <= 1) {
             return 1;
