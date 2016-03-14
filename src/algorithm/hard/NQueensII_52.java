@@ -6,37 +6,33 @@ import java.util.List;
 
 /**
  * Problem:
- * https://leetcode.com/problems/n-queens/
+ * https://leetcode.com/problems/n-queens-ii/
  * <p/>
  * Analysis:
- * Recursive backtrace solution.
  */
-public class NQueens_51 {
-    public List<List<String>> solveNQueens(int n) {
+public class NQueensII_52 {
+    public int totalNQueens(int n) {
         if (n <= 0) {
-            return new ArrayList<List<String>>();
+            return 0;
         }
 
-        return getNQueensSolutions(n, new ArrayList<String>());
+        return getSolutionCount(n, new ArrayList<String>(), 0);
     }
 
-    private List<List<String>> getNQueensSolutions(int n, List<String> currentSolution) {
-        List<List<String>> result = new ArrayList<List<String>>();
-
+    private int getSolutionCount(int n, List<String> currentSolution, int count) {
         int currentRow = currentSolution.size();
         if (currentRow >= n) {
-            result.add(new ArrayList<String>(currentSolution));
-            return result;
+            return count + 1;
         }
 
         for (int i = 0; i < n; i++) {
             if (canBePlaced(currentSolution, i)) {
                 currentSolution.add(buildRow(n, i));
-                result.addAll(getNQueensSolutions(n, currentSolution));
+                count = getSolutionCount(n, currentSolution, count);
                 currentSolution.remove(currentRow);
             }
         }
-        return result;
+        return count;
     }
 
     private boolean canBePlaced(List<String> currentSolution, int newColumn) {
