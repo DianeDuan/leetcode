@@ -9,6 +9,7 @@ import java.util.List;
  * https://leetcode.com/problems/n-queens-ii/
  * <p/>
  * Analysis:
+ * Recursive backtrace solution.
  */
 public class NQueensII_52 {
     public int totalNQueens(int n) {
