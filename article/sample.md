@@ -1,5 +1,3 @@
-[toc]
-
 # Problem
 
 ## Problem Link
