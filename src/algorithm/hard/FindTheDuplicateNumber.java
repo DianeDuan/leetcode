@@ -11,9 +11,10 @@ package algorithm.hard;
  * Use the pigeonhole principle.
  * <p/>
  * Second part: assume that there is only one duplicate number, find the duplicate one(which could be repeated more than once)
+ *
  * Solution1: Pigeonhole principle and binary search
- * According the Pigeonhole Principle,
- * If all the integers less than k(k>=1 and k<=n) is not duplicate, the count of these integers should be less than k.
+ * According to the Pigeonhole Principle,
+ * if all the integers which less than k(k>=1 and k<=n) is not duplicate, the count of these integers should be less than k.
  * Choose a k(k>=1 and k<=n),
  * if the count of all the numbers greater than k in nums array is greater than k,
  * it means the range of the duplicate number is between 1 and k,
@@ -23,7 +24,7 @@ package algorithm.hard;
  * <p/>
  * Solution2: Find the start of a cycle
  * If there is duplicate number in nums array, there will be a cycle in this array:
- * y[0] = 0, y[1] = nums[y[0]], y[2] = nums[y[i]], y[t] = nums[y[t-1]].
+ * y[0] = 0, y[1] = nums[y[0]], y[2] = nums[y[1]], y[t] = nums[y[t-1]].
  * This turn this problem into a finding the start of a cycle problem.
  * Use Floyd's cycle-finding algorithm to find the start of a cycle.
  * <p/>
