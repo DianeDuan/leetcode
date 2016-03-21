@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6fd48995-ee36-4612-8f4a-564b39bcf140" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/algorithm/medium/BinaryTreeZigzagLevelOrderTraversal.java" afterPath="$PROJECT_DIR$/src/algorithm/medium/BinaryTreeZigzagLevelOrderTraversal.java" />
     </list>
     <ignored path="leetcode.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -43,14 +43,14 @@
       <file leaf-file-name="BinaryTreeZigzagLevelOrderTraversal.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/algorithm/medium/BinaryTreeZigzagLevelOrderTraversal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.0313199">
-              <caret line="55" column="22" selection-start-line="55" selection-start-column="22" selection-end-line="55" selection-end-column="22" />
+            <state vertical-scroll-proportion="0.13480392">
+              <caret line="14" column="49" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#530#540#0" expanded="true" />
-                <element signature="e#562#572#0" expanded="true" />
-                <element signature="e#652#667#0" expanded="true" />
-                <element signature="e#1017#1026#0" expanded="true" />
+                <element signature="e#596#606#0" expanded="true" />
+                <element signature="e#628#638#0" expanded="true" />
+                <element signature="e#718#733#0" expanded="true" />
+                <element signature="e#1083#1092#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -126,8 +126,8 @@
         <option value="$PROJECT_DIR$/src/algorithm/medium/ConstructBinaryTreeFromPreorderAndInorderTraversal.java" />
         <option value="$PROJECT_DIR$/src/algorithm/medium/LetterCombinationsOfAPhoneNumber.java" />
         <option value="$PROJECT_DIR$/src/algorithm/medium/RotateList.java" />
-        <option value="$PROJECT_DIR$/src/algorithm/medium/BinaryTreeZigzagLevelOrderTraversal.java" />
         <option value="$PROJECT_DIR$/src/TestMain.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/medium/BinaryTreeZigzagLevelOrderTraversal.java" />
       </list>
     </option>
   </component>
@@ -147,10 +147,10 @@
     <treeState />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1431" />
-    <option name="y" value="24" />
-    <option name="width" value="1855" />
-    <option name="height" value="1056" />
+    <option name="x" value="1438" />
+    <option name="y" value="318" />
+    <option name="width" value="1843" />
+    <option name="height" value="978" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -827,15 +827,15 @@
       <workItem from="1458267319138" duration="25730000" />
       <workItem from="1458519697720" duration="2578000" />
       <workItem from="1458522318301" duration="1681000" />
-      <workItem from="1458524207032" duration="24242000" />
+      <workItem from="1458524207032" duration="24958000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="585488000" />
+    <option name="totallyTimeSpent" value="586204000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1431" y="24" width="1855" height="1056" extended-state="6" />
+    <frame x="1438" y="318" width="1843" height="978" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1342,14 +1342,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/algorithm/medium/BinaryTreeZigzagLevelOrderTraversal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.0313199">
-          <caret line="55" column="22" selection-start-line="55" selection-start-column="22" selection-end-line="55" selection-end-column="22" />
+        <state vertical-scroll-proportion="0.13480392">
+          <caret line="14" column="49" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#530#540#0" expanded="true" />
-            <element signature="e#562#572#0" expanded="true" />
-            <element signature="e#652#667#0" expanded="true" />
-            <element signature="e#1017#1026#0" expanded="true" />
+            <element signature="e#596#606#0" expanded="true" />
+            <element signature="e#628#638#0" expanded="true" />
+            <element signature="e#718#733#0" expanded="true" />
+            <element signature="e#1083#1092#0" expanded="true" />
           </folding>
         </state>
       </provider>
