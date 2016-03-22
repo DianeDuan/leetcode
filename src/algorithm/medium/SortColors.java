@@ -18,7 +18,7 @@ package algorithm.medium;
  * http://bangbingsyb.blogspot.jp/2014/11/leetcode-sort-colors.html
  */
 public class SortColors {
-    public void sortColors_solution1(int[] nums) {
+    public void sortColorsSolution1(int[] nums) {
         if (nums == null) {
             return;
         }
@@ -49,7 +49,7 @@ public class SortColors {
         }
     }
 
-    public void sortColors_solution2(int[] nums) {
+    public void sortColorsSolution2(int[] nums) {
         if (nums == null) {
             return;
         }

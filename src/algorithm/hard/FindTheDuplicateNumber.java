@@ -39,7 +39,7 @@ package algorithm.hard;
  */
 public class FindTheDuplicateNumber {
     //time complexity: O(nlogn), space complexity: o(1)
-    public int findDuplicate_solution1(int[] nums) {
+    public int findDuplicateSolution1(int[] nums) {
         if (nums == null) {
             return 0;
         }
@@ -64,7 +64,7 @@ public class FindTheDuplicateNumber {
     }
 
     //time complexity: O(n), space complexity: o(1)
-    public int findDuplicate_solution2(int[] nums) {
+    public int findDuplicateSolution2(int[] nums) {
         if (nums == null) {
             return 0;
         }

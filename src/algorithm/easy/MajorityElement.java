@@ -22,7 +22,7 @@ import java.util.Map;
  */
 public class MajorityElement {
     //time complexity: O(n), space complexity: O(n)
-    public int majorityElement_solution1(int[] nums) {
+    public int majorityElementSolution1(int[] nums) {
         int threshold = nums.length / 2;
         Map<Integer, Integer> numCount = new HashMap<Integer, Integer>();
         for (int num : nums) {
@@ -40,7 +40,7 @@ public class MajorityElement {
     }
 
     //time complexity: O(n), space complexity: O(n)
-    public int majorityElement_solution2(int[] nums) {
+    public int majorityElementSolution2(int[] nums) {
         int candidate = nums[0];
         int counter = 1;
         for (int i = 1; i < nums.length; i++) {

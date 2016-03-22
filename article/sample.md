@@ -112,7 +112,7 @@ so the space complexity is O(1).
 
 ### Code
 
-    public int findDuplicate_solution2(int[] nums) {
+    public int findDuplicate(int[] nums) {
         if (nums == null) {
             return 0;
         }

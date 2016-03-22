@@ -12,7 +12,7 @@ package algorithm.medium;
  * Then use binary search to find if the target is in the target row.
  */
 public class SearchA2DMatrix {
-    public boolean searchMatrix_solution1(int[][] matrix, int target) {
+    public boolean searchMatrix(int[][] matrix, int target) {
         if (matrix == null || matrix.length == 0) {
             return false;
         }

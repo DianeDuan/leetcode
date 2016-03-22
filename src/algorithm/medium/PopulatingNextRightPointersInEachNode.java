@@ -23,7 +23,7 @@ import java.util.Queue;
  * Use the upper layer nodes' next pointer to connect the right node of a subtree to the left node of the subtree next to it.
  */
 public class PopulatingNextRightPointersInEachNode {
-    public void connect_solution1(TreeLinkNode root) {
+    public void connectSolution1(TreeLinkNode root) {
         if (root == null) {
             return;
         }
@@ -39,7 +39,7 @@ public class PopulatingNextRightPointersInEachNode {
         }
     }
 
-    public void connect_solution2(TreeLinkNode root) {
+    public void connectSolution2(TreeLinkNode root) {
         while (root != null && root.left != null) {
             root.left.next = root.right;
             TreeLinkNode p = root;

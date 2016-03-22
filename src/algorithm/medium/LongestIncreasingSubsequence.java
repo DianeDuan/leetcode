@@ -34,7 +34,7 @@ import java.util.Arrays;
  */
 public class LongestIncreasingSubsequence {
     //time complexity: O(n^2)
-    public int lengthOfLIS_solution1(int[] nums) {
+    public int lengthOfLISSolution1(int[] nums) {
         if (nums == null || nums.length == 0) {
             return 0;
         }
@@ -54,7 +54,7 @@ public class LongestIncreasingSubsequence {
     }
 
     //time complexity: O(N*logN)
-    public int lengthOfLIS_solution2(int[] nums) {
+    public int lengthOfLISSolution2(int[] nums) {
         int[] minIndex = new int[nums.length];
         int len = 0;
         for (int num : nums) {

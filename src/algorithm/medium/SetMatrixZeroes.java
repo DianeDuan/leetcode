@@ -19,7 +19,7 @@ package algorithm.medium;
  */
 public class SetMatrixZeroes {
     //space complexity: O(m+n)
-    public void setZeroes_solution1(int[][] matrix) {
+    public void setZeroesSolution1(int[][] matrix) {
         if (matrix == null || matrix.length == 0) {
             return;
         }
@@ -49,7 +49,7 @@ public class SetMatrixZeroes {
     }
 
     //space complexity: O(1)
-    public void setZeroes_solution2(int[][] matrix) {
+    public void setZeroesSolution2(int[][] matrix) {
         if (matrix == null || matrix.length == 0) {
             return;
         }

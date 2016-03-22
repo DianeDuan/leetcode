@@ -20,19 +20,19 @@ import java.util.Stack;
  * Non-recursive solution.
  */
 public class BinaryTreeInorderTraversal {
-    public List<Integer> inorderTraversal_solution1(TreeNode root) {
+    public List<Integer> inorderTraversalSolution1(TreeNode root) {
         if (root == null) {
             return new ArrayList<Integer>();
         }
 
         List<Integer> result = new ArrayList<Integer>();
         result.add(root.val);
-        result.addAll(inorderTraversal_solution1(root.left));
-        result.addAll(inorderTraversal_solution1(root.right));
+        result.addAll(inorderTraversalSolution1(root.left));
+        result.addAll(inorderTraversalSolution1(root.right));
         return result;
     }
 
-    public List<Integer> inorderTraversal_solution2(TreeNode root) {
+    public List<Integer> inorderTraversalSolution2(TreeNode root) {
         Stack<TreeNode> stack = new Stack<TreeNode>();
         TreeNode current = root;
         List<Integer> result = new ArrayList<Integer>();

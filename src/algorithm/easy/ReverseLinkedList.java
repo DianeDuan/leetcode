@@ -19,7 +19,7 @@ import algorithm.vo.ListNode;
  * https://leetcode.com/discuss/34474/in-place-iterative-and-recursive-java-solution
  */
 public class ReverseLinkedList {
-    public ListNode reverseList_solution1(ListNode head) {
+    public ListNode reverseListSolution1(ListNode head) {
         if (head == null || head.next == null) {
             return head;
         }
@@ -34,7 +34,7 @@ public class ReverseLinkedList {
         return newHead;
     }
 
-    public ListNode reverseList_solution2(ListNode head) {
+    public ListNode reverseListSolution2(ListNode head) {
         return reverse(head, null);
     }
 

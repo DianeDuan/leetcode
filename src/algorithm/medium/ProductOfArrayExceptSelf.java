@@ -32,7 +32,7 @@ package algorithm.medium;
  */
 public class ProductOfArrayExceptSelf {
     //time complexity: O(n), space complexity: O(n)
-    public int[] productExceptSelf_solution1(int[] nums) {
+    public int[] productExceptSelfSolution1(int[] nums) {
         if (nums == null || nums.length == 0) {
             return nums;
         }
@@ -57,7 +57,7 @@ public class ProductOfArrayExceptSelf {
     }
 
     //time complexity: O(n), space complexity: O(1)
-    public int[] productExceptSelf_solution2(int[] nums) {
+    public int[] productExceptSelfSolution2(int[] nums) {
         if (nums == null || nums.length == 0) {
             return nums;
         }

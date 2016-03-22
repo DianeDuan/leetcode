@@ -20,7 +20,7 @@ package algorithm.easy;
  * http://blog.csdn.net/v_july_v/article/details/7041827
  */
 public class ImplementStrStr {
-    public int strStr_solution1(String haystack, String needle) {
+    public int strStrSolution1(String haystack, String needle) {
         if (haystack == null || needle == null) {
             return -1;
         }
@@ -33,7 +33,7 @@ public class ImplementStrStr {
         return -1;
     }
 
-    public int strStr_solution2(String haystack, String needle) {
+    public int strStrSolution2(String haystack, String needle) {
         if (haystack == null || needle == null) {
             return -1;
         }

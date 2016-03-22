@@ -22,7 +22,7 @@ package algorithm.easy;
  * http://www.programcreek.com/2013/02/leetcode-palindrome-number-java/
  */
 public class PalindromeNumber {
-    public boolean isPalindrome_solution1(int x) {
+    public boolean isPalindromeSolution1(int x) {
         if (x < 0) {
             return false;
         }
@@ -31,7 +31,7 @@ public class PalindromeNumber {
         return reversedX == x;
     }
 
-    public boolean isPalindrome_solution2(int x) {
+    public boolean isPalindromeSolution2(int x) {
         if (x < 0)
             return false;
 

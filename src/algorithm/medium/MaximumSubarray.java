@@ -21,7 +21,7 @@ package algorithm.medium;
  */
 public class MaximumSubarray {
     //time complexity: O(N)
-    public int maxSubArray_solution1(int[] nums) {
+    public int maxSubArraySolution1(int[] nums) {
         int sum = 0;
         int max = Integer.MIN_VALUE;
         for (int num : nums) {
@@ -35,7 +35,7 @@ public class MaximumSubarray {
     }
 
     //time complexity: O(logN)
-    public int maxSubArray_solution2(int[] nums) {
+    public int maxSubArraySolution2(int[] nums) {
         int maxSum = Integer.MIN_VALUE;
         return getSubarrayMax(nums, 0, nums.length - 1);
     }

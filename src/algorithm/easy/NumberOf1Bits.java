@@ -16,11 +16,11 @@ package algorithm.easy;
  * we can get all the bits of a integer.
  */
 public class NumberOf1Bits {
-    public int hammingWeight_solution1(int n) {
+    public int hammingWeightSolution1(int n) {
         return Integer.bitCount(n);
     }
 
-    public int hammingWeight_solution2(int n) {
+    public int hammingWeightSolution2(int n) {
         int sum = 0;
         for (int i = 0; i < 32; i++) {
             sum += (n & 1);

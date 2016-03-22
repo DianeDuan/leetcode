@@ -19,7 +19,7 @@ package algorithm.medium;
  * http://www.cnblogs.com/springfor/p/3886487.html
  */
 public class RotateImage {
-    public void rotate_solution1(int[][] matrix) {
+    public void rotateSolution1(int[][] matrix) {
         if (matrix == null || matrix.length == 0) {
             return;
         }
@@ -45,7 +45,7 @@ public class RotateImage {
         }
     }
 
-    public void rotate_solution2(int[][] matrix) {
+    public void rotateSolution2(int[][] matrix) {
         if (matrix == null || matrix.length == 0) {
             return;
         }

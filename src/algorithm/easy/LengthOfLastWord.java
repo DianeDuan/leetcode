@@ -14,7 +14,7 @@ package algorithm.easy;
  * Scan the string from back to front to get the length of the last word.
  */
 public class LengthOfLastWord {
-    public int lengthOfLastWord(String s) {
+    public int lengthOfLastWordSolution1(String s) {
         if (s == null || s.length() == 0) {
             return 0;
         }
@@ -26,7 +26,7 @@ public class LengthOfLastWord {
         }
     }
 
-    public int lengthOfLastWord_solution2(String s) {
+    public int lengthOfLastWordSolution2(String s) {
         if (s == null || s.length() == 0) {
             return 0;
         }

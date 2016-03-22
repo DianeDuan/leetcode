@@ -27,7 +27,7 @@ import java.util.Set;
  */
 public class SingleNumberIII {
     //time complexity: O(n), space complexity: O(n)
-    public int[] singleNumber_solution1(int[] nums) {
+    public int[] singleNumberSolution1(int[] nums) {
         if (nums == null || nums.length < 2) {
             return new int[0];
         }
@@ -58,7 +58,7 @@ public class SingleNumberIII {
     }
 
     //time complexity: O(n), space complexity: O(1)
-    public int[] singleNumber_solution2(int[] nums) {
+    public int[] singleNumberSolution2(int[] nums) {
         if (nums == null || nums.length < 2) {
             return new int[0];
         }

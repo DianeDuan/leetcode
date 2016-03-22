@@ -23,7 +23,7 @@ import java.util.Map;
  */
 public class ValidAnagram {
     //input can only contains english 26 characters
-    public boolean isAnagram_solution1(String s, String t) {
+    public boolean isAnagramSolution1(String s, String t) {
         if (s == null || t == null) {
             return s == t;
         }
@@ -46,7 +46,7 @@ public class ValidAnagram {
     }
 
     //input can contains all the unicode character
-    public boolean isAnagram_solution2(String s, String t) {
+    public boolean isAnagramSolution2(String s, String t) {
         if (s == null || t == null) {
             return s == t;
         }

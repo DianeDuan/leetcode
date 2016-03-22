@@ -26,7 +26,7 @@ import java.util.Stack;
  */
 public class PalindromeLinkedList {
     //time complexity: O(n), space complexity: O(n)
-    public boolean isPalindrome_solution1(ListNode head) {
+    public boolean isPalindromeSolution1(ListNode head) {
         if (head == null) {
             return true;
         }
@@ -56,7 +56,7 @@ public class PalindromeLinkedList {
     }
 
     //time complexity: O(n), space complexity: O(1)
-    public boolean isPalindrome_solution2(ListNode head) {
+    public boolean isPalindromeSolution2(ListNode head) {
         if (head == null) {
             return true;
         }

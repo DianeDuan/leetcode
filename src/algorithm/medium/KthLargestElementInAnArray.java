@@ -19,12 +19,12 @@ import java.util.Arrays;
  * https://en.wikipedia.org/wiki/Quickselect?oldformat=true
  */
 public class KthLargestElementInAnArray {
-    public int findKthLargest_solution1(int[] nums, int k) {
+    public int findKthLargestSolution1(int[] nums, int k) {
         Arrays.sort(nums);
         return nums[nums.length - k];
     }
 
-    public int findKthLargest_solution2(int[] nums, int k) {
+    public int findKthLargestSolution2(int[] nums, int k) {
         return nums[quickSelect(nums, 0, nums.length - 1, k - 1)];
     }
 

@@ -24,19 +24,19 @@ import java.util.Stack;
  * http://noalgo.info/832.html
  */
 public class BinaryTreePostorderTraversal {
-    public List<Integer> postorderTraversal_solution1(TreeNode root) {
+    public List<Integer> postorderTraversalSolution1(TreeNode root) {
         if (root == null) {
             return new ArrayList<Integer>();
         }
 
         List<Integer> result = new ArrayList<Integer>();
-        result.addAll(postorderTraversal_solution1(root.left));
-        result.addAll(postorderTraversal_solution1(root.right));
+        result.addAll(postorderTraversalSolution1(root.left));
+        result.addAll(postorderTraversalSolution1(root.right));
         result.add(root.val);
         return result;
     }
 
-    public List<Integer> postorderTraversal_solution2(TreeNode root) {
+    public List<Integer> postorderTraversalSolution2(TreeNode root) {
         if (root == null) {
             return new ArrayList<Integer>();
         }

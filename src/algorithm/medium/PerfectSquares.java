@@ -17,7 +17,7 @@ package algorithm.medium;
  * https://leetcode.com/discuss/58056/summary-of-different-solutions-bfs-static-and-mathematics
  */
 public class PerfectSquares {
-    public int numSquares_solution1(int n) {
+    public int numSquaresSolution1(int n) {
         if (n < 0) {
             return 0;
         }
@@ -32,7 +32,7 @@ public class PerfectSquares {
         return minCounts[n];
     }
 
-    public int numSquares_solution2(int n) {
+    public int numSquaresSolution2(int n) {
         // If n is a perfect square, return 1.
         if (isSquare(n)) {
             return 1;

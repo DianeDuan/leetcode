@@ -27,22 +27,22 @@ import algorithm.vo.TreeNode;
  * https://en.wikipedia.org/wiki/Binary_search_tree?oldformat=true
  */
 public class LowestCommonAncestorOfABinarySearchTree {
-    public TreeNode lowestCommonAncestor_solution1(TreeNode root, TreeNode p, TreeNode q) {
+    public TreeNode lowestCommonAncestorSolution1(TreeNode root, TreeNode p, TreeNode q) {
         if (root.val > p.val && root.val > q.val) {
-            return lowestCommonAncestor_solution1(root.left, p, q);
+            return lowestCommonAncestorSolution1(root.left, p, q);
         } else if (root.val < p.val && root.val < q.val) {
-            return lowestCommonAncestor_solution1(root.right, p, q);
+            return lowestCommonAncestorSolution1(root.right, p, q);
         }
         return root;
     }
 
-    public TreeNode lowestCommonAncestor_solution2(TreeNode root, TreeNode p, TreeNode q) {
+    public TreeNode lowestCommonAncestorSolution2(TreeNode root, TreeNode p, TreeNode q) {
         if (root == null || root == p || root == q) {
             return root;
         }
 
-        TreeNode left = lowestCommonAncestor_solution2(root.left, p, q);
-        TreeNode right = lowestCommonAncestor_solution2(root.right, p, q);
+        TreeNode left = lowestCommonAncestorSolution2(root.left, p, q);
+        TreeNode right = lowestCommonAncestorSolution2(root.right, p, q);
 
         if (left != null && right != null) {
             return root;

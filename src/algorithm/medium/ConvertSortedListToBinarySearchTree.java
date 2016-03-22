@@ -19,11 +19,11 @@ import algorithm.vo.TreeNode;
 public class ConvertSortedListToBinarySearchTree {
     private ListNode current;
 
-    public TreeNode sortedListToBST_solution1(ListNode head) {
+    public TreeNode sortedListToBSTSolution1(ListNode head) {
         return buildBSTFromTop(head, null);
     }
 
-    public TreeNode sortedListToBST_solution2(ListNode head) {
+    public TreeNode sortedListToBSTSolution2(ListNode head) {
         if (head == null) {
             return null;
         }

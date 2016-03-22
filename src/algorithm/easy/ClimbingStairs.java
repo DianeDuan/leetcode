@@ -12,7 +12,7 @@ package algorithm.easy;
  * http://blog.csdn.net/kenden23/article/details/17377869
  */
 public class ClimbingStairs {
-    public int climbStairs_solution1(int n) {
+    public int climbStairsSolution1(int n) {
         if (n <= 0) {
             return 0;
         }
@@ -22,10 +22,10 @@ public class ClimbingStairs {
         if (n == 2) {
             return 2;
         }
-        return climbStairs_solution1(n - 1) + climbStairs_solution1(n - 2);
+        return climbStairsSolution1(n - 1) + climbStairsSolution1(n - 2);
     }
 
-    public int climbStairs_solution2(int n) {
+    public int climbStairsSolution2(int n) {
         if (n <= 0) {
             return 0;
         }

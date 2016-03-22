@@ -9,7 +9,7 @@ package algorithm.easy;
  * Use a tmp array to store rotate part numbers.
  */
 public class RotateArray {
-    public void rotate_solution1(int[] nums, int k) {
+    public void rotateSolution1(int[] nums, int k) {
         while (k > nums.length) {
             k -= nums.length;
         }

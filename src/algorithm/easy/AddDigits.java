@@ -49,7 +49,7 @@ package algorithm.easy;
  * result = (num-1)%9+1
  */
 public class AddDigits {
-    public int addDigits_solution1(int num) {
+    public int addDigitsSolution1(int num) {
         if ((num / 10) == 0) {
             return num;
         } else {
@@ -60,11 +60,11 @@ public class AddDigits {
                 num = ((num - digit) / 10);
             }
             digitsSum += num;
-            return addDigits_solution1(digitsSum);
+            return addDigitsSolution1(digitsSum);
         }
     }
 
-    public int addDigits_solution2(int num) {
+    public int addDigitsSolution2(int num) {
         return ((num - 1) % 9) + 1;
     }
 }

@@ -27,7 +27,7 @@ public class ReverseBits {
     // cache
     private final Map<Byte, Integer> cache = new HashMap<Byte, Integer>();
 
-    public int reverseBits_solution1(int n) {
+    public int reverseBitsSolution1(int n) {
         int reversedNum = 0;
         for (int i = 0; i < 32; i++) {
             reversedNum <<= 1;
@@ -37,11 +37,11 @@ public class ReverseBits {
         return reversedNum;
     }
 
-    public int reverseBits_solution2(int n) {
+    public int reverseBitsSolution2(int n) {
         return Integer.reverse(n);
     }
 
-    public int reverseBits_solution3(int n) {
+    public int reverseBitsSolution3(int n) {
         byte[] bytes = new byte[4];
         for (int i = 0; i < 4; i++) { // convert int into 4 bytes
             bytes[i] = (byte) ((n >>> 8 * i) & 0xFF);

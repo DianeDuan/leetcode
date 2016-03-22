@@ -22,7 +22,7 @@ import java.util.Queue;
  * http://www.cnblogs.com/springfor/p/3879595.html
  */
 public class SymmetricTree {
-    public boolean isSymmetric_solution1(TreeNode root) {
+    public boolean isSymmetricSolution1(TreeNode root) {
         if (root == null) {
             return true;
         }
@@ -34,7 +34,7 @@ public class SymmetricTree {
         return isSymmetric(root.left, root.right);
     }
 
-    public boolean isSymmetric_solution2(TreeNode root) {
+    public boolean isSymmetricSolution2(TreeNode root) {
         if (root == null) {
             return true;
         }

@@ -20,19 +20,19 @@ import java.util.Stack;
  * Non-recursive solution, use a stack to keep a record of nodes in the tree.
  */
 public class BinaryTreePreorderTraversal {
-    public List<Integer> preorderTraversal_solution1(TreeNode root) {
+    public List<Integer> preorderTraversalSolution1(TreeNode root) {
         if (root == null) {
             return new ArrayList<Integer>();
         }
 
         List<Integer> result = new ArrayList<Integer>();
         result.add(root.val);
-        result.addAll(preorderTraversal_solution1(root.left));
-        result.addAll(preorderTraversal_solution1(root.right));
+        result.addAll(preorderTraversalSolution1(root.left));
+        result.addAll(preorderTraversalSolution1(root.right));
         return result;
     }
 
-    public List<Integer> preorderTraversal_solution2(TreeNode root) {
+    public List<Integer> preorderTraversalSolution2(TreeNode root) {
         if (root == null) {
             return new ArrayList<Integer>();
         }

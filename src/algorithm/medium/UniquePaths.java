@@ -17,7 +17,7 @@ package algorithm.medium;
  * http://www.cnblogs.com/springfor/p/3886603.html
  */
 public class UniquePaths {
-    public int uniquePaths(int m, int n) {
+    public int uniquePathsSolution1(int m, int n) {
         if (m <= 0 || n <= 0) {
             return 0;
         }
@@ -25,10 +25,10 @@ public class UniquePaths {
             return 1;
         }
 
-        return uniquePaths(m - 1, n) + uniquePaths(m, n - 1);
+        return uniquePathsSolution1(m - 1, n) + uniquePathsSolution1(m, n - 1);
     }
 
-    public int uniquePaths_solution2(int m, int n) {
+    public int uniquePathsSolution2(int m, int n) {
         if (m <= 0 || n <= 0) {
             return 0;
         }

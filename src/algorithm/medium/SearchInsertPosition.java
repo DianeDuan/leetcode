@@ -15,7 +15,7 @@ package algorithm.medium;
  */
 public class SearchInsertPosition {
     //time complexity: O(N)
-    public int searchInsert_solution1(int[] nums, int target) {
+    public int searchInsertSolution1(int[] nums, int target) {
         if (nums == null) {
             return 0;
         }
@@ -28,7 +28,7 @@ public class SearchInsertPosition {
     }
 
     //time complexity: O(logN)
-    public int searchInsert_solution2(int[] nums, int target) {
+    public int searchInsertSolution2(int[] nums, int target) {
         if (nums == null) {
             return 0;
         }

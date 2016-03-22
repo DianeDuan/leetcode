@@ -17,7 +17,7 @@ package algorithm.easy;
  * If n is a power of 2, there should be only one bit whose value is 1.
  */
 public class PowerOfTwo {
-    public boolean isPowerOfTwo_solution1(int n) {
+    public boolean isPowerOfTwoSolution1(int n) {
         while (n > 0) {
             if (n == 1) {
                 return true;
@@ -30,13 +30,13 @@ public class PowerOfTwo {
         return false;
     }
 
-    public boolean isPowerOfTwo_solution2(int n) {
+    public boolean isPowerOfTwoSolution2(int n) {
         double epsilon = 10e-15;
         double logarithm = (Math.log(n) / Math.log(2));
         return Math.abs(logarithm - Math.round(logarithm)) < epsilon;
     }
 
-    public boolean isPowerOfTwo_solution3(int n) {
+    public boolean isPowerOfTwoSolution3(int n) {
         if (n <= 0) {
             return false;
         }
