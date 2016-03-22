@@ -5,84 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6fd48995-ee36-4612-8f4a-564b39bcf140" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/AddDigits.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/AddDigits.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/ClimbingStairs.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/ClimbingStairs.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/ImplementStrStr.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/ImplementStrStr.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/InvertBinaryTree.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/InvertBinaryTree.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/LengthOfLastWord.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/LengthOfLastWord.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/LowestCommonAncestorOfABinarySearchTree.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/LowestCommonAncestorOfABinarySearchTree.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/MajorityElement.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/MajorityElement.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/NumberOf1Bits.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/NumberOf1Bits.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/PalindromeLinkedList.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/PalindromeLinkedList.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/PalindromeNumber.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/PalindromeNumber.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/PowerOfThree.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/PowerOfThree.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/PowerOfTwo.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/PowerOfTwo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/ReverseBits.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/ReverseBits.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/ReverseLinkedList.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/ReverseLinkedList.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/RotateArray.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/RotateArray.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/SymmetricTree.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/SymmetricTree.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/easy/ValidAnagram.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/easy/ValidAnagram.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/hard/BinaryTreePostorderTraversal.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/hard/BinaryTreePostorderTraversal.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/hard/FindTheDuplicateNumber.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/hard/FindTheDuplicateNumber.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/medium/BinaryTreeInorderTraversal.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/medium/BinaryTreeInorderTraversal.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/medium/BinaryTreePreorderTraversal.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/medium/BinaryTreePreorderTraversal.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/medium/BinaryTreeZigzagLevelOrderTraversal.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/medium/BinaryTreeZigzagLevelOrderTraversal.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/medium/ConvertSortedListToBinarySearchTree.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/medium/ConvertSortedListToBinarySearchTree.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/medium/KthLargestElementInAnArray.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/medium/KthLargestElementInAnArray.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/medium/LongestIncreasingSubsequence.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/medium/LongestIncreasingSubsequence.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/medium/MaximumSubarray.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/medium/MaximumSubarray.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/medium/PerfectSquares.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/medium/PerfectSquares.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/medium/PopulatingNextRightPointersInEachNode.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/medium/PopulatingNextRightPointersInEachNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/medium/ProductOfArrayExceptSelf.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/medium/ProductOfArrayExceptSelf.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/medium/RotateImage.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/medium/RotateImage.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/medium/SearchA2DMatrix.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/medium/SearchA2DMatrix.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/medium/SearchInsertPosition.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/medium/SearchInsertPosition.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/medium/SetMatrixZeroes.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/medium/SetMatrixZeroes.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/medium/SingleNumber.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/medium/SingleNumber.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/medium/SingleNumberII.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/medium/SingleNumberII.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/medium/SingleNumberIII.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/medium/SingleNumberIII.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/medium/SortColors.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/medium/SortColors.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algorithm/medium/UniquePaths.class" afterPath="$PROJECT_DIR$/target/classes/algorithm/medium/UniquePaths.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/article/sample.md" afterPath="$PROJECT_DIR$/article/sample.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/algorithm/easy/AddDigits.java" afterPath="$PROJECT_DIR$/src/algorithm/easy/AddDigits.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/algorithm/easy/ClimbingStairs.java" afterPath="$PROJECT_DIR$/src/algorithm/easy/ClimbingStairs.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/algorithm/easy/ImplementStrStr.java" afterPath="$PROJECT_DIR$/src/algorithm/easy/ImplementStrStr.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/algorithm/easy/InvertBinaryTree.java" afterPath="$PROJECT_DIR$/src/algorithm/easy/InvertBinaryTree.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/algorithm/easy/LengthOfLastWord.java" afterPath="$PROJECT_DIR$/src/algorithm/easy/LengthOfLastWord.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/algorithm/easy/LowestCommonAncestorOfABinarySearchTree.java" afterPath="$PROJECT_DIR$/src/algorithm/easy/LowestCommonAncestorOfABinarySearchTree.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/algorithm/easy/MajorityElement.java" afterPath="$PROJECT_DIR$/src/algorithm/easy/MajorityElement.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/algorithm/easy/NumberOf1Bits.java" afterPath="$PROJECT_DIR$/src/algorithm/easy/NumberOf1Bits.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/algorithm/easy/PalindromeLinkedList.java" afterPath="$PROJECT_DIR$/src/algorithm/easy/PalindromeLinkedList.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/algorithm/easy/PalindromeNumber.java" afterPath="$PROJECT_DIR$/src/algorithm/easy/PalindromeNumber.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/algorithm/easy/PowerOfThree.java" afterPath="$PROJECT_DIR$/src/algorithm/easy/PowerOfThree.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/algorithm/easy/PowerOfTwo.java" afterPath="$PROJECT_DIR$/src/algorithm/easy/PowerOfTwo.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/algorithm/easy/ReverseBits.java" afterPath="$PROJECT_DIR$/src/algorithm/easy/ReverseBits.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/algorithm/easy/ReverseLinkedList.java" afterPath="$PROJECT_DIR$/src/algorithm/easy/ReverseLinkedList.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/algorithm/easy/RotateArray.java" afterPath="$PROJECT_DIR$/src/algorithm/easy/RotateArray.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/algorithm/easy/SymmetricTree.java" afterPath="$PROJECT_DIR$/src/algorithm/easy/SymmetricTree.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/algorithm/easy/ValidAnagram.java" afterPath="$PROJECT_DIR$/src/algorithm/easy/ValidAnagram.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/algorithm/hard/BinaryTreePostorderTraversal.java" afterPath="$PROJECT_DIR$/src/algorithm/hard/BinaryTreePostorderTraversal.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/algorithm/hard/FindTheDuplicateNumber.java" afterPath="$PROJECT_DIR$/src/algorithm/hard/FindTheDuplicateNumber.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/algorithm/medium/BinaryTreeInorderTraversal.java" afterPath="$PROJECT_DIR$/src/algorithm/medium/BinaryTreeInorderTraversal.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/algorithm/medium/BinaryTreePreorderTraversal.java" afterPath="$PROJECT_DIR$/src/algorithm/medium/BinaryTreePreorderTraversal.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/algorithm/medium/BinaryTreeZigzagLevelOrderTraversal.java" afterPath="$PROJECT_DIR$/src/algorithm/medium/BinaryTreeZigzagLevelOrderTraversal.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/algorithm/medium/ConvertSortedListToBinarySearchTree.java" afterPath="$PROJECT_DIR$/src/algorithm/medium/ConvertSortedListToBinarySearchTree.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/algorithm/medium/KthLargestElementInAnArray.java" afterPath="$PROJECT_DIR$/src/algorithm/medium/KthLargestElementInAnArray.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/algorithm/medium/LongestIncreasingSubsequence.java" afterPath="$PROJECT_DIR$/src/algorithm/medium/LongestIncreasingSubsequence.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/algorithm/medium/MaximumSubarray.java" afterPath="$PROJECT_DIR$/src/algorithm/medium/MaximumSubarray.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/algorithm/medium/PerfectSquares.java" afterPath="$PROJECT_DIR$/src/algorithm/medium/PerfectSquares.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/algorithm/medium/PopulatingNextRightPointersInEachNode.java" afterPath="$PROJECT_DIR$/src/algorithm/medium/PopulatingNextRightPointersInEachNode.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/algorithm/medium/ProductOfArrayExceptSelf.java" afterPath="$PROJECT_DIR$/src/algorithm/medium/ProductOfArrayExceptSelf.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/algorithm/medium/RotateImage.java" afterPath="$PROJECT_DIR$/src/algorithm/medium/RotateImage.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/algorithm/medium/SearchA2DMatrix.java" afterPath="$PROJECT_DIR$/src/algorithm/medium/SearchA2DMatrix.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/algorithm/medium/SearchInsertPosition.java" afterPath="$PROJECT_DIR$/src/algorithm/medium/SearchInsertPosition.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/algorithm/medium/SetMatrixZeroes.java" afterPath="$PROJECT_DIR$/src/algorithm/medium/SetMatrixZeroes.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/algorithm/medium/SingleNumber.java" afterPath="$PROJECT_DIR$/src/algorithm/medium/SingleNumber.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/algorithm/medium/SingleNumberII.java" afterPath="$PROJECT_DIR$/src/algorithm/medium/SingleNumberII.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/algorithm/medium/SingleNumberIII.java" afterPath="$PROJECT_DIR$/src/algorithm/medium/SingleNumberIII.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/algorithm/medium/SortColors.java" afterPath="$PROJECT_DIR$/src/algorithm/medium/SortColors.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/algorithm/medium/UniquePaths.java" afterPath="$PROJECT_DIR$/src/algorithm/medium/UniquePaths.java" />
     </list>
     <ignored path="leetcode.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -117,14 +40,16 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CopyListWithRandomPointer.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/algorithm/hard/CopyListWithRandomPointer.java">
+      <file leaf-file-name="Triangle.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/algorithm/medium/Triangle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.81208056">
-              <caret line="49" column="30" selection-start-line="49" selection-start-column="30" selection-end-line="49" selection-end-column="30" />
+            <state vertical-scroll-proportion="0.46979865">
+              <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1061#1093#0" expanded="true" />
+                <element signature="e#432#447#0" expanded="true" />
+                <element signature="e#495#504#0" expanded="true" />
+                <element signature="e#732#741#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -151,7 +76,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/algorithm/medium/IntegerToEnglishWords.java" />
         <option value="$PROJECT_DIR$/src/algorithm/hard/ReverseNodesInKGroup.java" />
         <option value="$PROJECT_DIR$/src/algorithm/hard/MedianOfTwoSortedArray.java" />
         <option value="$PROJECT_DIR$/src/algorithm/medium/ConstructBinaryTreeFromInorderAndPostorderTraversal.java" />
@@ -201,6 +125,7 @@
         <option value="$PROJECT_DIR$/src/algorithm/medium/SortColors.java" />
         <option value="$PROJECT_DIR$/src/algorithm/medium/UniquePaths.java" />
         <option value="$PROJECT_DIR$/src/algorithm/hard/CopyListWithRandomPointer.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/medium/Triangle.java" />
         <option value="$PROJECT_DIR$/src/TestMain.java" />
       </list>
     </option>
@@ -301,28 +226,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="algorithm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="leetcode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="leetcode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="algorithm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hard" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -902,12 +805,12 @@
       <workItem from="1458519697720" duration="2578000" />
       <workItem from="1458522318301" duration="1681000" />
       <workItem from="1458524207032" duration="24958000" />
-      <workItem from="1458610570718" duration="8593000" />
+      <workItem from="1458610570718" duration="11905000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="594797000" />
+    <option name="totallyTimeSpent" value="598109000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1431" y="24" width="1855" height="1056" extended-state="6" />
@@ -921,7 +824,7 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32829374" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2498615" sideWeight="0.49391305" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.63714904" sideWeight="0.49584487" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4449244" sideWeight="0.49584487" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32829374" sideWeight="0.5041551" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5842333" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -994,7 +897,7 @@
           <option name="timeStamp" value="123" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="358" />
+      <option name="time" value="363" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
@@ -1007,22 +910,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$USER_HOME$/JDK/jdk1.7.0_40/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.17673378">
-          <caret line="1896" column="35" selection-start-line="1896" selection-start-column="35" selection-end-line="1896" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/JDK/jdk1.7.0_40/src.zip!/java/lang/Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="503" column="0" selection-start-line="503" selection-start-column="0" selection-end-line="503" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/JDK/jdk1.7.0_40/src.zip!/java/lang/NumberFormatException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1072,8 +959,8 @@
         <state vertical-scroll-proportion="0.4049217">
           <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#756#764#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#756#764#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1101,8 +988,8 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
           <folding>
-            <element signature="e#149#150#0" expanded="true" />
-            <element signature="e#179#180#0" expanded="true" />
+            <element signature="e#149#150#0" expanded="false" />
+            <element signature="e#179#180#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1168,8 +1055,8 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
           <folding>
-            <element signature="e#442#443#0" expanded="true" />
-            <element signature="e#484#485#0" expanded="true" />
+            <element signature="e#442#443#0" expanded="false" />
+            <element signature="e#484#485#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1426,6 +1313,25 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/hard/CopyListWithRandomPointer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.09172259">
+          <caret line="41" column="27" selection-start-line="41" selection-start-column="27" selection-end-line="41" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1061#1093#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/JDK/jdk1.7.0_40/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="634" column="0" selection-start-line="634" selection-start-column="0" selection-end-line="634" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/TestMain.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1434,13 +1340,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/hard/CopyListWithRandomPointer.java">
+    <entry file="file://$PROJECT_DIR$/src/algorithm/medium/Triangle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.81208056">
-          <caret line="49" column="30" selection-start-line="49" selection-start-column="30" selection-end-line="49" selection-end-column="30" />
+        <state vertical-scroll-proportion="0.46979865">
+          <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1061#1093#0" expanded="true" />
+            <element signature="e#432#447#0" expanded="true" />
+            <element signature="e#495#504#0" expanded="true" />
+            <element signature="e#732#741#0" expanded="true" />
           </folding>
         </state>
       </provider>
