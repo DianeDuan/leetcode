@@ -40,11 +40,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WildcardMatching.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/algorithm/hard/WildcardMatching.java">
+      <file leaf-file-name="DivideTwoIntegers.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/algorithm/medium/DivideTwoIntegers.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.31096196">
-              <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+            <state vertical-scroll-proportion="0.9395973">
+              <caret line="30" column="9" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -71,8 +71,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/algorithm/medium/LetterCombinationsOfAPhoneNumber.java" />
-        <option value="$PROJECT_DIR$/src/algorithm/medium/RotateList.java" />
         <option value="$PROJECT_DIR$/src/algorithm/medium/BinaryTreeZigzagLevelOrderTraversal.java" />
         <option value="$PROJECT_DIR$/src/algorithm/vo/RandomListNode.java" />
         <option value="$PROJECT_DIR$/src/algorithm/easy/AddDigits.java" />
@@ -121,6 +119,8 @@
         <option value="$PROJECT_DIR$/src/algorithm/medium/SimplifyPath.java" />
         <option value="$PROJECT_DIR$/src/algorithm/hard/FirstMissingPositive.java" />
         <option value="$PROJECT_DIR$/src/algorithm/hard/WildcardMatching.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/medium/MaximumProductSubarray.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/medium/DivideTwoIntegers.java" />
         <option value="$PROJECT_DIR$/src/TestMain.java" />
       </list>
     </option>
@@ -241,7 +241,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="hard" />
+              <option name="myItemId" value="medium" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -823,12 +823,12 @@
       <workItem from="1458522318301" duration="1681000" />
       <workItem from="1458524207032" duration="24958000" />
       <workItem from="1458610570718" duration="26077000" />
-      <workItem from="1458693434806" duration="6105000" />
+      <workItem from="1458693434806" duration="15016000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="618386000" />
+    <option name="totallyTimeSpent" value="627297000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1431" y="24" width="1855" height="1056" extended-state="6" />
@@ -909,11 +909,13 @@
           <option name="timeStamp" value="123" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="392" />
+      <option name="time" value="412" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
-        <watch expression="current" language="JAVA" custom="" />
+        <watch expression="(isNegative ? -result : result)" language="JAVA" custom="" />
+        <watch expression="isNegative" language="JAVA" custom="" />
+        <watch expression="(int) (isNegative ? -result : result)" language="JAVA" custom="" />
       </configuration>
     </watches-manager>
   </component>
@@ -922,33 +924,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/algorithm/easy/NumberOf1Bits.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
-          <folding>
-            <element signature="e#442#443#0" expanded="false" />
-            <element signature="e#484#485#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/easy/PalindromeLinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="58" column="40" selection-start-line="58" selection-start-column="40" selection-end-line="58" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/easy/PalindromeNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="33" column="40" selection-start-line="33" selection-start-column="40" selection-end-line="33" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/algorithm/easy/PowerOfThree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1211,6 +1186,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="51" column="19" selection-start-line="51" selection-start-column="19" selection-end-line="51" selection-end-column="19" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1233,8 +1209,8 @@
         <state vertical-scroll-proportion="0.31096196">
           <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#696#706#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#696#706#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1337,6 +1313,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/hard/WildcardMatching.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.72035795">
+          <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/medium/MaximumProductSubarray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3736018">
+          <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/JDK/jdk1.7.0_40/src.zip!/java/io/PrintStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="733" column="16" selection-start-line="733" selection-start-column="16" selection-end-line="733" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/TestMain.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1345,10 +1345,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/hard/WildcardMatching.java">
+    <entry file="file://$PROJECT_DIR$/src/algorithm/medium/DivideTwoIntegers.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.31096196">
-          <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+        <state vertical-scroll-proportion="0.9395973">
+          <caret line="30" column="9" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
           <folding />
         </state>
       </provider>
