@@ -40,12 +40,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PopulatingNextRightPointersInEachNodeII.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/algorithm/hard/PopulatingNextRightPointersInEachNodeII.java">
+      <file leaf-file-name="LongestConsecutiveSequence.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/algorithm/hard/LongestConsecutiveSequence.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.18568233">
-              <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
-              <folding />
+            <state vertical-scroll-proportion="-0.28411633">
+              <caret line="15" column="70" selection-start-line="15" selection-start-column="70" selection-end-line="15" selection-end-column="70" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#739#748#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -71,7 +74,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/algorithm/easy/PowerOfTwo.java" />
         <option value="$PROJECT_DIR$/src/algorithm/easy/ReverseBits.java" />
         <option value="$PROJECT_DIR$/src/algorithm/easy/ReverseLinkedList.java" />
         <option value="$PROJECT_DIR$/src/algorithm/easy/RotateArray.java" />
@@ -122,6 +124,7 @@
         <option value="$PROJECT_DIR$/src/algorithm/medium/RepeatedDNASequences.java" />
         <option value="$PROJECT_DIR$/src/TestMain.java" />
         <option value="$PROJECT_DIR$/src/algorithm/hard/PopulatingNextRightPointersInEachNodeII.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/hard/LongestConsecutiveSequence.java" />
       </list>
     </option>
   </component>
@@ -826,12 +829,12 @@
       <workItem from="1458693434806" duration="15135000" />
       <workItem from="1458708853988" duration="14497000" />
       <workItem from="1458783758338" duration="16507000" />
-      <workItem from="1458875374616" duration="10322000" />
+      <workItem from="1458875374616" duration="12262000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="668742000" />
+    <option name="totallyTimeSpent" value="670682000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1431" y="24" width="1855" height="1056" extended-state="6" />
@@ -925,14 +928,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/algorithm/medium/ProductOfArrayExceptSelf.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="59" column="43" selection-start-line="59" selection-start-column="43" selection-end-line="59" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/algorithm/medium/RotateImage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1058,13 +1053,6 @@
             <element signature="imports" expanded="false" />
             <element signature="e#696#706#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/JDK/jdk1.7.0_40/src.zip!/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="3604" column="48" selection-start-line="3604" selection-start-column="48" selection-end-line="3604" selection-end-column="48" />
         </state>
       </provider>
     </entry>
@@ -1340,6 +1328,25 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/hard/PopulatingNextRightPointersInEachNodeII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4675615">
+          <caret line="27" column="43" selection-start-line="27" selection-start-column="43" selection-end-line="27" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/JDK/jdk1.7.0_40/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2826" column="42" selection-start-line="2826" selection-start-column="42" selection-end-line="2826" selection-end-column="42" />
+          <folding>
+            <element signature="e#128641#128642#0" expanded="true" />
+            <element signature="e#128682#128683#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/TestMain.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1348,11 +1355,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/hard/PopulatingNextRightPointersInEachNodeII.java">
+    <entry file="file://$PROJECT_DIR$/src/algorithm/hard/LongestConsecutiveSequence.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.18568233">
-          <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
-          <folding />
+        <state vertical-scroll-proportion="-0.28411633">
+          <caret line="15" column="70" selection-start-line="15" selection-start-column="70" selection-end-line="15" selection-end-column="70" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#739#748#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
