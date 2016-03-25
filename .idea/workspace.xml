@@ -40,11 +40,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SearchInRotatedSortedArray.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/algorithm/hard/SearchInRotatedSortedArray.java">
+      <file leaf-file-name="SearchInRotatedSortedArrayII.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/algorithm/medium/SearchInRotatedSortedArrayII.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.15436241">
-              <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+            <state vertical-scroll-proportion="0.7494407">
+              <caret line="28" column="36" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -71,7 +71,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/algorithm/easy/RotateArray.java" />
         <option value="$PROJECT_DIR$/src/algorithm/easy/SymmetricTree.java" />
         <option value="$PROJECT_DIR$/src/algorithm/easy/ValidAnagram.java" />
         <option value="$PROJECT_DIR$/src/algorithm/hard/BinaryTreePostorderTraversal.java" />
@@ -120,8 +119,9 @@
         <option value="$PROJECT_DIR$/src/algorithm/hard/PopulatingNextRightPointersInEachNodeII.java" />
         <option value="$PROJECT_DIR$/src/algorithm/hard/LongestConsecutiveSequence.java" />
         <option value="$PROJECT_DIR$/src/algorithm/medium/VerifyPreorderSerializationOfABinaryTree.java" />
-        <option value="$PROJECT_DIR$/src/algorithm/hard/SearchInRotatedSortedArray.java" />
         <option value="$PROJECT_DIR$/src/TestMain.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/hard/SearchInRotatedSortedArray.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/medium/SearchInRotatedSortedArrayII.java" />
       </list>
     </option>
   </component>
@@ -239,7 +239,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="hard" />
+              <option name="myItemId" value="medium" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -826,12 +826,12 @@
       <workItem from="1458693434806" duration="15135000" />
       <workItem from="1458708853988" duration="14497000" />
       <workItem from="1458783758338" duration="16507000" />
-      <workItem from="1458875374616" duration="18688000" />
+      <workItem from="1458875374616" duration="19394000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="677108000" />
+    <option name="totallyTimeSpent" value="677814000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1431" y="24" width="1855" height="1056" extended-state="6" />
@@ -921,14 +921,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/algorithm/medium/SearchInsertPosition.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="30" column="36" selection-start-line="30" selection-start-column="36" selection-end-line="30" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/algorithm/medium/SetMatrixZeroes.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1346,6 +1338,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/hard/SearchInRotatedSortedArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="27" column="35" selection-start-line="27" selection-start-column="35" selection-end-line="27" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/TestMain.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1354,10 +1354,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/hard/SearchInRotatedSortedArray.java">
+    <entry file="file://$PROJECT_DIR$/src/algorithm/medium/SearchInRotatedSortedArrayII.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.15436241">
-          <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+        <state vertical-scroll-proportion="0.7494407">
+          <caret line="28" column="36" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="36" />
           <folding />
         </state>
       </provider>
