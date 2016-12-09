@@ -20,9 +20,9 @@ public class SimplifyPath {
         List<String> directoryHierarchies = new ArrayList<String>();
         String[] directories = path.split("/");
         for (String directory : directories) {
-            if (!directory.equals(".") && !directory.equals("..") && directory.length() > 0) {
+            if (!directory.equals(".") && !directory.equals("algorithm/src/test") && directory.length() > 0) {
                 directoryHierarchies.add(directory);
-            } else if (directory.equals("..") && directoryHierarchies.size() > 0) {
+            } else if (directory.equals("algorithm/src/test") && directoryHierarchies.size() > 0) {
                 directoryHierarchies.remove(directoryHierarchies.size() - 1);
             }
         }

@@ -1,15 +1,12 @@
 package algorithm.medium;
 
-import jdk.nashorn.internal.ir.IdentNode;
-import org.omg.PortableInterceptor.INACTIVE;
-
 import java.util.*;
 
 /**
  * Problem:
  * No: 347
  * Link: https://leetcode.com/problems/top-k-frequent-elements/
- *
+ * <p>
  * Analysis:
  */
 public class TopKFrequentElements {
@@ -18,7 +15,6 @@ public class TopKFrequentElements {
         if (nums == null || nums.length == 0) {
             return new ArrayList<Integer>();
         }
-
 
 
         Map<Integer, Integer> frequency = new HashMap<Integer, Integer>();
