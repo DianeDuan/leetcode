@@ -1,4 +1,4 @@
-package algorithm.vo;
+package vo;
 
 public class Interval {
     public int start;

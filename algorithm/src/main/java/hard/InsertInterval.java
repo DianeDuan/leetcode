@@ -1,6 +1,6 @@
-package algorithm.hard;
+package hard;
 
-import algorithm.vo.Interval;
+import vo.Interval;
 
 import java.util.ArrayList;
 import java.util.List;

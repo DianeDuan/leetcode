@@ -1,6 +1,6 @@
-package algorithm.medium;
+package medium;
 
-import algorithm.vo.TreeLinkNode;
+import vo.TreeLinkNode;
 
 import java.util.LinkedList;
 import java.util.Queue;

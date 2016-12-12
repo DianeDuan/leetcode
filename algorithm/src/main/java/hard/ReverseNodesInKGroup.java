@@ -1,6 +1,6 @@
-package algorithm.hard;
+package hard;
 
-import algorithm.vo.ListNode;
+import vo.ListNode;
 
 /**
  * Problem:

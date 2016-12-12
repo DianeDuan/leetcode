@@ -1,6 +1,6 @@
-package algorithm.medium;
+package medium;
 
-import algorithm.vo.TrieNode;
+import vo.TrieNode;
 
 /**
  * Problem:

@@ -1,6 +1,6 @@
-package algorithm.medium;
+package medium;
 
-import algorithm.vo.TreeNode;
+import vo.TreeNode;
 
 import java.util.Stack;
 

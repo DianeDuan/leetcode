@@ -1,4 +1,4 @@
-package algorithm.vo;
+package vo;
 
 public class TreeNode {
     public int val;

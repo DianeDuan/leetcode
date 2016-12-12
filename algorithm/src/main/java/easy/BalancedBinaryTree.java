@@ -1,6 +1,6 @@
-package algorithm.easy;
+package easy;
 
-import algorithm.vo.TreeNode;
+import vo.TreeNode;
 
 /**
  * Problem:

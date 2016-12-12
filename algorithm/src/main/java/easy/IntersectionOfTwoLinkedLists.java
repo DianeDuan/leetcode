@@ -1,6 +1,6 @@
-package algorithm.easy;
+package easy;
 
-import algorithm.vo.ListNode;
+import vo.ListNode;
 
 /**
  * Problem:

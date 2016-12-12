@@ -1,7 +1,7 @@
-package algorithm.medium;
+package medium;
 
-import algorithm.vo.ListNode;
-import algorithm.vo.TreeNode;
+import vo.ListNode;
+import vo.TreeNode;
 
 /**
  * Problem:

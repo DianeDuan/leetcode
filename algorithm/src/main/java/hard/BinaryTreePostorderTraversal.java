@@ -1,6 +1,6 @@
-package algorithm.hard;
+package hard;
 
-import algorithm.vo.TreeNode;
+import vo.TreeNode;
 
 import java.util.ArrayList;
 import java.util.Collections;

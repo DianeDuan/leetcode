@@ -1,4 +1,4 @@
-package algorithm.hard;
+package hard;
 
 /**
  * Problem:

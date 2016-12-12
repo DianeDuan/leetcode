@@ -1,6 +1,6 @@
-package algorithm.medium;
+package medium;
 
-import algorithm.vo.ListNode;
+import vo.ListNode;
 
 /**
  * Problem:

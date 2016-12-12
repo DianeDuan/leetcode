@@ -1,4 +1,4 @@
-package algorithm.vo;
+package vo;
 
 public class RandomListNode {
     public int label;

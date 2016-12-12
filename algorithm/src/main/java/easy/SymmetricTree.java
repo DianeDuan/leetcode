@@ -1,6 +1,6 @@
-package algorithm.easy;
+package easy;
 
-import algorithm.vo.TreeNode;
+import vo.TreeNode;
 
 import java.util.LinkedList;
 import java.util.Queue;

@@ -1,4 +1,4 @@
-package algorithm.medium;
+package medium;
 
 import java.util.ArrayList;
 import java.util.Arrays;

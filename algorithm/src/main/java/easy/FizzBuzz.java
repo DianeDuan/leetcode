@@ -9,7 +9,7 @@ import java.util.List;
  * Link: https://leetcode.com/problems/fizz-buzz/
  * <p>
  * Analysis:
- * Use modulo operation to determin if a number is multiple of 3, or a multiple of 5, of a multiple of both 3 and 5.
+ * Use modulo operation to determine if a number is multiple of 3, or a multiple of 5, of a multiple of both 3 and 5.
  */
 public class FizzBuzz {
     public List<String> fizzBuzz(int n) {
