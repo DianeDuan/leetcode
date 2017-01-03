@@ -1,6 +1,6 @@
 package medium;
 
-import vo.TreeNode;
+import provided.vo.TreeNode;
 
 /**
  * Problem:

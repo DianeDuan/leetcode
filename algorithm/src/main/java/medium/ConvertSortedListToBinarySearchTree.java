@@ -1,7 +1,7 @@
 package medium;
 
-import vo.ListNode;
-import vo.TreeNode;
+import provided.vo.ListNode;
+import provided.vo.TreeNode;
 
 /**
  * Problem:

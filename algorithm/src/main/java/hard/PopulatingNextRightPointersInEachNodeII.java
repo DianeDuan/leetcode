@@ -1,6 +1,6 @@
 package hard;
 
-import vo.TreeLinkNode;
+import provided.vo.TreeLinkNode;
 
 /**
  * Problem:

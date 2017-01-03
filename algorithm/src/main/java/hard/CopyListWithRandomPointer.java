@@ -1,6 +1,6 @@
 package hard;
 
-import vo.RandomListNode;
+import provided.vo.RandomListNode;
 
 import java.util.HashMap;
 import java.util.Map;

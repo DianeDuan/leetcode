@@ -1,6 +1,6 @@
 package medium;
 
-import vo.TreeLinkNode;
+import provided.vo.TreeLinkNode;
 
 import java.util.LinkedList;
 import java.util.Queue;

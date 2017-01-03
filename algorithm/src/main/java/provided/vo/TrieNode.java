@@ -1,4 +1,4 @@
-package vo;
+package provided.vo;
 
 public class TrieNode {
     public char value;

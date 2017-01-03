@@ -1,7 +1,7 @@
 package easy;
 
 
-import vo.ListNode;
+import provided.vo.ListNode;
 
 /**
  * Problem:

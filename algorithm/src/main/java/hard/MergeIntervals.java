@@ -1,6 +1,6 @@
 package hard;
 
-import vo.Interval;
+import provided.vo.Interval;
 
 import java.util.ArrayList;
 import java.util.Collections;

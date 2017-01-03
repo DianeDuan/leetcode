@@ -1,6 +1,6 @@
 package hard;
 
-import vo.DoublyLinkedListNode;
+import provided.vo.DoublyLinkedListNode;
 
 import java.util.HashMap;
 import java.util.Map;

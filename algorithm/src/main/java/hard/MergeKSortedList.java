@@ -1,6 +1,6 @@
 package hard;
 
-import vo.ListNode;
+import provided.vo.ListNode;
 
 /**
  * Problem:

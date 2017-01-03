@@ -1,4 +1,4 @@
-package vo;
+package provided.vo;
 
 public class ListNode {
     public int val;

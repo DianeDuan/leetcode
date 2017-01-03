@@ -1,6 +1,6 @@
 package easy;
 
-import vo.TreeNode;
+import provided.vo.TreeNode;
 
 import java.util.Stack;
 

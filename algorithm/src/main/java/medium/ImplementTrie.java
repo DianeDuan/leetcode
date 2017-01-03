@@ -1,6 +1,6 @@
 package medium;
 
-import vo.TrieNode;
+import provided.vo.TrieNode;
 
 /**
  * Problem:
