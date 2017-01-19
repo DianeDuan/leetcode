@@ -17,6 +17,7 @@ import java.util.Random;
  * <p>
  * Reference:
  * https://en.wikipedia.org/wiki/Reservoir_sampling?oldformat=true
+ * http://www.cnblogs.com/youxin/p/3348225.html
  */
 public class LinkedListRandomNode {
     private ListNode head;
