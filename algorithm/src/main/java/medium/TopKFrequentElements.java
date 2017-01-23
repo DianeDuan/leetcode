@@ -8,18 +8,20 @@ import java.util.*;
  * Link: https://leetcode.com/problems/top-k-frequent-elements/
  * <p>
  * Analysis:
+ * First mapping the numbers to its frequencies.
+ * And then use a min heap to find the top k frequent elements.
+ * <p>
+ * Reference:
+ * http://www.programcreek.com/2014/05/leetcode-top-k-frequent-elements-java/
  */
 public class TopKFrequentElements {
-    // TODO: 8/2/16  
     public List<Integer> topKFrequent(int[] nums, int k) {
         if (nums == null || nums.length == 0) {
-            return new ArrayList<Integer>();
+            return new ArrayList<>();
         }
 
-
-        Map<Integer, Integer> frequency = new HashMap<Integer, Integer>();
-        for (int i = 0; i < nums.length; i++) {
-            int key = nums[i];
+        Map<Integer, Integer> frequency = new HashMap<>();
+        for (int key : nums) {
             if (frequency.containsKey(key)) {
                 int count = frequency.get(key);
                 frequency.put(key, count + 1);
@@ -28,20 +30,24 @@ public class TopKFrequentElements {
             }
         }
 
-        Set<Integer> result = new HashSet<Integer>();
-        int minFrequencyNum = nums[0];
-        int minFrequency = frequency.get(nums[0]);
-        result.add(nums[0]);
+        PriorityQueue<Map.Entry<Integer, Integer>> minHeap = new PriorityQueue<>(new Comparator<Map.Entry<Integer, Integer>>() {
+            @Override
+            public int compare(Map.Entry<Integer, Integer> o1, Map.Entry<Integer, Integer> o2) {
+                return o1.getValue() - o2.getValue();
+            }
+        });
+
         for (Map.Entry<Integer, Integer> entry : frequency.entrySet()) {
-            if (entry.getValue() > minFrequency) {
-                result.add(minFrequency);
-            } else {
-                result.add(minFrequency);
-                result.remove(minFrequencyNum);
-                minFrequency = entry.getValue();
-                minFrequencyNum = entry.getValue();
+            minHeap.add(entry);
+            if (minHeap.size() > k) {
+                minHeap.poll();
             }
         }
-        return new ArrayList<Integer>(result);
+
+        List<Integer> result = new ArrayList<>();
+        for (Map.Entry<Integer, Integer> entry : minHeap) {
+            result.add(entry.getKey());
+        }
+        return result;
     }
 }
