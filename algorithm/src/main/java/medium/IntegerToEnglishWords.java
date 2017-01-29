@@ -17,6 +17,38 @@ import java.util.Map;
 public class IntegerToEnglishWords {
     private static Map<Integer, String> numToWordMap = initNumToWordMap();
 
+    private static Map<Integer, String> initNumToWordMap() {
+        Map<Integer, String> result = new HashMap<Integer, String>();
+        result.put(1, "One");
+        result.put(2, "Two");
+        result.put(3, "Three");
+        result.put(4, "Four");
+        result.put(5, "Five");
+        result.put(6, "Six");
+        result.put(7, "Seven");
+        result.put(8, "Eight");
+        result.put(9, "Nine");
+        result.put(10, "Ten");
+        result.put(11, "Eleven");
+        result.put(12, "Twelve");
+        result.put(13, "Thirteen");
+        result.put(14, "Fourteen");
+        result.put(15, "Fifteen");
+        result.put(16, "Sixteen");
+        result.put(17, "Seventeen");
+        result.put(18, "Eighteen");
+        result.put(19, "Nineteen");
+        result.put(20, "Twenty");
+        result.put(30, "Thirty");
+        result.put(40, "Forty");
+        result.put(50, "Fifty");
+        result.put(60, "Sixty");
+        result.put(70, "Seventy");
+        result.put(80, "Eighty");
+        result.put(90, "Ninety");
+        return result;
+    }
+
     public String numberToWords(int num) {
         if (num == 0) {
             return "Zero";
@@ -75,37 +107,5 @@ public class IntegerToEnglishWords {
             sb.append(numToWordMap.get(first));
         }
         return sb.toString();
-    }
-
-    private static Map<Integer, String> initNumToWordMap() {
-        Map<Integer, String> result = new HashMap<Integer, String>();
-        result.put(1, "One");
-        result.put(2, "Two");
-        result.put(3, "Three");
-        result.put(4, "Four");
-        result.put(5, "Five");
-        result.put(6, "Six");
-        result.put(7, "Seven");
-        result.put(8, "Eight");
-        result.put(9, "Nine");
-        result.put(10, "Ten");
-        result.put(11, "Eleven");
-        result.put(12, "Twelve");
-        result.put(13, "Thirteen");
-        result.put(14, "Fourteen");
-        result.put(15, "Fifteen");
-        result.put(16, "Sixteen");
-        result.put(17, "Seventeen");
-        result.put(18, "Eighteen");
-        result.put(19, "Nineteen");
-        result.put(20, "Twenty");
-        result.put(30, "Thirty");
-        result.put(40, "Forty");
-        result.put(50, "Fifty");
-        result.put(60, "Sixty");
-        result.put(70, "Seventy");
-        result.put(80, "Eighty");
-        result.put(90, "Ninety");
-        return result;
     }
 }
